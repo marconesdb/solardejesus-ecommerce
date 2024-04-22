@@ -1,0 +1,14 @@
+/* Definindo a animação de deslocamento da esquerda para a direita */
+@keyframes slideFromLeft {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Aplicando a animação à imagem */
+.banner-slide-animation {
+  animation: slideFromLeft 40s ease-out;
+}
