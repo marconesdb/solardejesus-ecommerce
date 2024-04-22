@@ -302,6 +302,13 @@ const Navbar = () => {
                 >
                  Downloads
                 </Link>
+
+                <Link
+                  to="/vendas"
+                  className="text-black hover:bg-orange400 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                >
+                 Vendas
+                </Link>
               </div>
             </div>
             <Link
