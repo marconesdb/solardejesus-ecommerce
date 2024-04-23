@@ -44,7 +44,7 @@ function App() {
      <Route path='/doacoes' element={<Doacoes/>}/>
      <Route path='/contato' element={<Contato/>}/>
      <Route path='/vendas' element={<Vendas/>}/>
-     <Route path='/comprovante' element={<Comprovantes/>}/>
+     <Route path='/comprovantes' element={<Comprovantes/>}/>
      <Route path='*' element={<h1>Not Found</h1>}/>
    </Routes>
    </BrowserRouter>
