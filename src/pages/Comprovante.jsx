@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
-import enreje from '../public/Pix.png';
+import Pix from '../public/Pix.png';
 import { FaWhatsapp } from 'react-icons/fa';
 
 const Form_Vendas = () => {
@@ -16,7 +16,7 @@ const Form_Vendas = () => {
                     <p className="text-gray-700 font-bold">Entregamos em até dois dias úteis seu pedido.</p>
                 </div>
                 {/* Adicionar uma Imagem com QRcode Pix Solar de Jesus */}
-                <img src={enreje} alt="QR Code Pix" className="mx-auto mb-8" />
+                <img src={Pix} alt="QR Code Pix" className="mx-auto mb-8" style={{ width: '450px', height: '800px' }} />
                 <div className="max-w-md mx-auto mt-8">
                     <h2 className="text-2xl font-bold mb-4  text-center ">Envie seu Comprovante PIX</h2>
                     <h2 className="text-2xl font-bold mb-4  text-center "><em>Clique no botão abaixo e informe sobre seu pedido.</em></h2>
