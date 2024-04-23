@@ -189,7 +189,7 @@ const Navbar = () => {
                   <Menu.Item>
                     {({ active }) => (
                       <Link
-                        to="/vendas"
+                        to="/venda"
                         className={`${
                           active ? 'bg-gray-100 text-gray-900' : 'text-gray-700'
                         } group flex rounded-md items-center w-full px-2 py-2 text-sm`}
@@ -304,7 +304,7 @@ const Navbar = () => {
                 </Link>
 
                 <Link
-                  to="/vendas"
+                  to="/venda"
                   className="text-black hover:bg-orange400 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
                  Venda de Livros
