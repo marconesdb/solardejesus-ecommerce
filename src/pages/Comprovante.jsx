@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React from 'react';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
 import enreje from '../public/Pix.png';
