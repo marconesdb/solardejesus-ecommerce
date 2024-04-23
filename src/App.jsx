@@ -16,8 +16,8 @@ import NossaHistoria from './pages/quemsomos/NossaHistoria'
 import Caridade from './pages/DoutrinaEspirita/ArtigosEspiritas/Caridade'
 import Coragem from './pages/DoutrinaEspirita/ArtigosEspiritas/Coragem'
 import DownloadPalestras from './pages/DoutrinaEspirita/DownloadPalestras'
-import Vendas from './pages/Venda'
-import Comprovantes from './pages/Comprovante'
+import Venda from './pages/Venda'
+import Comprovante from './pages/Comprovante'
 
 
 function App() {
@@ -43,8 +43,8 @@ function App() {
      <Route path='/transmissao' element={<Transmissao/>}/>
      <Route path='/doacoes' element={<Doacoes/>}/>
      <Route path='/contato' element={<Contato/>}/>
-     <Route path='/vendas' element={<Vendas/>}/>
-     <Route path='/comprovantes' element={<Comprovantes/>}/>
+     <Route path='/venda' element={<Venda/>}/>
+     <Route path='/comprovante' element={<Comprovante/>}/>
      <Route path='*' element={<h1>Not Found</h1>}/>
    </Routes>
    </BrowserRouter>
