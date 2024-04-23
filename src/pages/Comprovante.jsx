@@ -19,7 +19,7 @@ const Form_Vendas = () => {
                 <img src={enreje} alt="QR Code Pix" className="mx-auto mb-8" />
                 <div className="max-w-md mx-auto mt-8">
                     <h2 className="text-2xl font-bold mb-4  text-center ">Envie seu Comprovante PIX</h2>
-                    <h2 className="text-2xl font-bold mb-4  text-center ">Clique no Botão abaixo</h2>
+                    <h2 className="text-2xl font-bold mb-4  text-center "><em>Clique no botão abaixo e informe sobre seu pedido.</em></h2>
                     <div className='flex justify-center'>
                         <a href="https://wa.me/5538992182727" target='_blank' className="text-gray-400 hover:text-green-500">
                         <FaWhatsapp  className='' size={64} />
