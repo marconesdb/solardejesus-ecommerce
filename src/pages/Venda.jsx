@@ -14,6 +14,7 @@ import livro2Img2 from '../images/img2.jpg';
 import livro2Img3 from '../images/img3.jpg';
 import livro1 from '../images/img1.jpg';
 import livro2 from '../images/img2.jpg';
+import { Link } from 'react-router-dom';
 const Venda = () => {
     const [modalOpen, setModalOpen] = useState(false);
     const [bookImages, setBookImages] = useState([]);
@@ -61,7 +62,7 @@ const Venda = () => {
                             <p className="text-gray-700">Descrição curta do livro 1. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             <div className="mt-4 flex justify-between items-center">
                                 <span className="font-bold text-xl">R$29,99</span>
-                                <a href="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</a>
+                                <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
                             </div>
                         </div>
                     </div>
@@ -74,7 +75,7 @@ const Venda = () => {
                             <p className="text-gray-700">Descrição curta do livro 2. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             <div className="mt-4 flex justify-between items-center">
                                 <span className="font-bold text-xl">R$24,99</span>
-                                <a href="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</a>
+                                <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
                             </div>
                         </div>
                     </div>
