@@ -15,7 +15,8 @@ import livro2Img3 from '../images/img3.jpg';
 import livro1 from '../images/img1.jpg';
 import livro2 from '../images/img2.jpg';
 import { Link,  useLocation } from 'react-router-dom';
-const Venda = () => {
+
+const Pagina2 = () => {
   
     const location = useLocation(); // useLocation agora está definido corretamente
 
@@ -131,4 +132,4 @@ const Venda = () => {
     )
 }
 
-export default Venda;
+export default Pagina2;
