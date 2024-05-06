@@ -79,8 +79,10 @@ import audioEnglish19 from './Audio-Orações/Prayer for the Cultivation of Love
 import audioPortugues20 from './Audio-Orações/Oração para o homem orgulhoso superar seus preconceitos.mp3'
 import audioEspanol20 from './Audio-Orações/Oración para que el hombre orgulloso supere sus prejuicios.mp3';
 import audioEnglish20 from './Audio-Orações/Prayer for the proud man to overcome his prejudices.mp3';
+import audioPortugues21 from './Audio-Orações/Oração para uma réstia de luz no mundo.mp4';
 import audioEspanol21 from './Audio-Orações/Oración por un rayo de luz en el mundo-Espanhol.mp3';
 import audioEnglish21 from './Audio-Orações/Prayer for a ray of light in the world-Inglês.mp3';
+import audioPortugues22 from './Audio-Orações/Mães em Desespero.mp4';
 import audioEspanol22 from './Audio-Orações/Madres desesperadas.mp3';
 import audioEnglish22 from './Audio-Orações/Mothers in Despair.mp3';
 import audioEspanol23 from './Audio-Orações/Oración por lá ansiedad.mp3';
@@ -946,7 +948,7 @@ export default function Oracoes() {
             </p>
             <p><b><em>Oração em áudio: Português</em></b></p>
             <audio controls>
-              <source src={audioPortugues1} type="audio/mp3" />
+              <source src={audioPortugues21} type="audio/mp3" />
               Seu navegador não suporta o elemento de áudio.
             </audio>
             <p><b><em>Audio Prayer: English</em></b></p>
@@ -985,7 +987,7 @@ export default function Oracoes() {
             </p>
             <p><b><em>Oração em áudio: Português</em></b></p>
             <audio controls>
-              <source src={audioPortugues1} type="audio/mp3" />
+              <source src={audioPortugues22} type="audio/mp3" />
               Seu navegador não suporta o elemento de áudio.
             </audio>
             <p><b><em>Audio Prayer: English</em></b></p>
