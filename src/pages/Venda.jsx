@@ -95,7 +95,7 @@ const Venda = () => {
                     <h2 className="text-xl font-bold mb-2">Caminho Espírita</h2>
                     <p className="text-gray-700">O Caminho Espírita é uma compilação de mensagens que, seguindo as orientações de Emmanuel, funcionam como lembretes valiosos em nossa jornada pelo reino interior da alma.Estas mensagens nos guiam, ajudando-nos a superar dificuldades e indecisões.   </p>
                     <div className="mt-4 flex justify-between items-center">
-                        <span className="font-bold text-xl">R$52,00</span>
+                        <span className="font-bold text-xl">R$40,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
                     </div>
                 </div>
@@ -107,7 +107,7 @@ const Venda = () => {
                     <h2 className="text-xl font-bold mb-2">Caminho, verdade e vida</h2>
                     <p className="text-gray-700">Emmanuel extrai de conceitos do Cristo, ou de seus colaboradores dIretos, a lição para determinada situação do Espírito nos caminhos da vida de relação. o autor comenta ensinamentos do Evangelho de forma original e atraente, ensinando-nos não apenas a ...</p>
                     <div className="mt-4 flex justify-between items-center">
-                        <span className="font-bold text-xl">R$70,00</span>
+                        <span className="font-bold text-xl">R$60,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
                     </div>
                 </div>
@@ -120,7 +120,7 @@ const Venda = () => {
                     <h2 className="text-xl font-bold mb-2">Ceifa de Luz</h2>
                     <p className="text-gray-700">Este livro apresenta um tesouro de mensagens reconfortantes e diretrizes essenciais, lembrando ao leitor a importância de aproveitar plenamente as experiências diárias em busca da iluminação interior, através do cultivo de sentimentos nobres e do trabalho... </p>
                     <div className="mt-4 flex justify-between items-center">
-                        <span className="font-bold text-xl">R$70,00</span>
+                        <span className="font-bold text-xl">R$60,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
                     </div>
                 </div>
@@ -133,7 +133,7 @@ const Venda = () => {
                     <h2 className="text-xl font-bold mb-2">Cinquenta anos depois</h2>
                     <p className="text-gray-700">Apenas décadas de trabalho árduo e sofrimento podem desfazer os séculos de egoísmo, orgulho e ambição que nos conduziram à injustiça! Após cinquenta anos desde sua encarnação como o senador Publius Lentulus, o Espírito Emmanuel retorna à vida terrena em... </p>
                     <div className="mt-4 flex justify-between items-center">
-                        <span className="font-bold text-xl">R$77,00</span>
+                        <span className="font-bold text-xl">R$60,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
                     </div>
                 </div>
