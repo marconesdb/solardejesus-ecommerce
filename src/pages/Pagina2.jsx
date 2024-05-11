@@ -143,13 +143,14 @@ const Pagina2 = () => {
 
                   {/* Exibição dos resultados da pesquisa */}
                 <div className="text-center mt-8">
-                    <div className="flex flex-wrap justify-center">
+                <div className="flex flex-wrap justify-center">
+                        <Link to="/venda" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 hover:bg-amber-500`}>Anterior</Link>
                         <Link to="/venda" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/venda' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>1</Link>
                         <Link to="/Pagina2" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/Pagina2' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>2</Link>
-                        <Link to="/vendas3" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/vendas3' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>3</Link>
-                        <Link to="/vendas4" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/vendas4' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>4</Link>
-                        <Link to="/vendas5" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/vendas5' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>5</Link>
-                        <Link to="/vendas5" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 hover:bg-amber-500`}>Próximos</Link>
+                        <Link to="/Pagina3" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/Pagina3' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>3</Link>
+                        <Link to="/Pagina4" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/Pagina4' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>4</Link>
+                        <Link to="/Pagina5" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/Pagina5' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>5</Link>
+                        <Link to="/Pagina3" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 hover:bg-amber-500`}>Próximos</Link>
                     </div>
                 </div>
 
