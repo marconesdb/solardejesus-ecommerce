@@ -38,7 +38,7 @@ const Venda = () => {
                 <img src={livro1} alt="Livro 1" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
                 <div className="p-4">
                     <h2 className="text-xl font-bold mb-2">Alma e Coração</h2>
-                    <p className="text-gray-700">Alma e Coração lembra com acerto que, no mundo em que vivemos, nossas conquistas em termos espirituais têm de ser feitas no dia-a-dia, paralelamente às conquistas que visam mais diretamente ao progresso material; que solucionando os problemas internos...</p>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>Alma e Coração lembra com acerto que, no mundo em que vivemos, nossas conquistas em termos espirituais têm de ser feitas no dia-a-dia, paralelamente às conquistas que visam mais diretamente ao progresso material; que solucionando os...</p>
                     <div className="mt-4 flex justify-between items-center">
                         <span className="font-bold text-xl">R$52,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
@@ -50,7 +50,7 @@ const Venda = () => {
                 <img src={livro2} alt="Livro 2" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
                 <div className="p-4">
                     <h2 className="text-xl font-bold mb-2">Ave, Cristo!</h2>
-                    <p className="text-gray-700">A história gira em torno da dolorosa experiência de Quinto Varro, que reencarnou obstinado pela salvação do filho amado e ingrato, que ainda se deixava seduzir pelos espetáculos sangrentos do circo, fiel aos deuses de barro de sua época.</p>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>A história gira em torno da dolorosa experiência de Quinto Varro, que reencarnou obstinado pela salvação do filho amado e ingrato, que ainda se deixava seduzir pelos espetáculos sangrentos do circo, fiel aos deuses de barro de sua época.</p>
                     <div className="mt-4 flex justify-between items-center">
                         <span className="font-bold text-xl">R$70,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
@@ -63,7 +63,7 @@ const Venda = () => {
                 <img src={livro3} alt="Livro 3" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
                 <div className="p-4">
                     <h2 className="text-xl font-bold mb-2">Ação e Reação</h2>
-                    <p className="text-gray-700">Durante três anos, o Espírito André Luiz permaneceu na Mansão Paz, instituição sob jurisdição da colônia Nosso Lar que atende Espíritos sofredores de regiões próximas à Terra. Acompanhado do amigo Hilário, o autor espiritual conhece...</p>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>Durante três anos, o Espírito André Luiz permaneceu na Mansão Paz, instituição sob jurisdição da colônia Nosso Lar que atende Espíritos sofredores de regiões próximas à Terra. Acompanhado do amigo Hilário, o autor espiritual conhece...</p>
                     <div className="mt-4 flex justify-between items-center">
                         <span className="font-bold text-xl">R$70,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
@@ -76,7 +76,7 @@ const Venda = () => {
                 <img src={livro4} alt="Livro 4" className="w-full object-contain sm:h-auto mt-4 " style={{ height: '450px' }} />
                 <div className="p-4">
                     <h2 className="text-xl font-bold mb-2">A Caminho da Luz</h2>
-                    <p className="text-gray-700">Objetivando orientar o homem de acordo com os desígnios da Misericórdia divina, apresentando reflexões sobre as situações cotidianas à guisa dos ensinamentos e bondade celestes, A caminho da luz é obra merecedora de leitura e estudo ... </p>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>Objetivando orientar o homem de acordo com os desígnios da Misericórdia divina, apresentando reflexões sobre as situações cotidianas à guisa dos ensinamentos e bondade celestes, A caminho da luz é obra merecedora de leitura e estudo ... </p>
                     <div className="mt-4 flex justify-between items-center">
                         <span className="font-bold text-xl">R$77,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
@@ -93,7 +93,7 @@ const Venda = () => {
                 <img src={livro5} alt="Livro 1" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
                 <div className="p-4">
                     <h2 className="text-xl font-bold mb-2">Caminho Espírita</h2>
-                    <p className="text-gray-700">O Caminho Espírita é uma compilação de mensagens que, seguindo as orientações de Emmanuel, funcionam como lembretes valiosos em nossa jornada pelo reino interior da alma.Estas mensagens nos guiam, ajudando-nos a superar dificuldades e indecisões.   </p>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>O Caminho Espírita é uma compilação de mensagens que, seguindo as orientações de Emmanuel, funcionam como lembretes valiosos em nossa jornada pelo reino interior da alma.Estas mensagens nos guiam, ajudando-nos a superar dificuldades e...  </p>
                     <div className="mt-4 flex justify-between items-center">
                         <span className="font-bold text-xl">R$40,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
@@ -105,7 +105,7 @@ const Venda = () => {
                 <img src={livro6} alt="Livro 2" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
                 <div className="p-4">
                     <h2 className="text-xl font-bold mb-2">Caminho, verdade e vida</h2>
-                    <p className="text-gray-700">Emmanuel extrai de conceitos do Cristo, ou de seus colaboradores dIretos, a lição para determinada situação do Espírito nos caminhos da vida de relação. o autor comenta ensinamentos do Evangelho de forma original e atraente, ensinando-nos não apenas a ...</p>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>Emmanuel extrai de conceitos do Cristo, ou de seus colaboradores dIretos, a lição para determinada situação do Espírito nos caminhos da vida de relação. o autor comenta ensinamentos do Evangelho de forma original e atraente, ensinando-nos não apenas a ...</p>
                     <div className="mt-4 flex justify-between items-center">
                         <span className="font-bold text-xl">R$60,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
@@ -118,7 +118,7 @@ const Venda = () => {
                 <img src={livro7} alt="Livro 3" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
                 <div className="p-4">
                     <h2 className="text-xl font-bold mb-2">Ceifa de Luz</h2>
-                    <p className="text-gray-700">Este livro apresenta um tesouro de mensagens reconfortantes e diretrizes essenciais, lembrando ao leitor a importância de aproveitar plenamente as experiências diárias em busca da iluminação interior, através do cultivo de sentimentos nobres e do trabalho... </p>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>Este livro apresenta um tesouro de mensagens reconfortantes e diretrizes essenciais, lembrando ao leitor a importância de aproveitar plenamente as experiências diárias em busca da iluminação interior, através do cultivo de sentimentos nobres e do trabalho... </p>
                     <div className="mt-4 flex justify-between items-center">
                         <span className="font-bold text-xl">R$60,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
@@ -131,7 +131,7 @@ const Venda = () => {
                 <img src={livro8} alt="Livro 4" className="w-full object-contain sm:h-auto mt-4 " style={{ height: '450px' }} />
                 <div className="p-4">
                     <h2 className="text-xl font-bold mb-2">Cinquenta anos depois</h2>
-                    <p className="text-gray-700">Apenas décadas de trabalho árduo e sofrimento podem desfazer os séculos de egoísmo, orgulho e ambição que nos conduziram à injustiça! Após cinquenta anos desde sua encarnação como o senador Publius Lentulus, o Espírito Emmanuel retorna à vida terrena em... </p>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>Apenas décadas de trabalho árduo e sofrimento podem desfazer os séculos de egoísmo, orgulho e ambição que nos conduziram à injustiça! Após cinquenta anos desde sua encarnação como o senador Publius Lentulus, o Espírito Emmanuel retorna à vida... </p>
                     <div className="mt-4 flex justify-between items-center">
                         <span className="font-bold text-xl">R$60,00</span>
                         <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
