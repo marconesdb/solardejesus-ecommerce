@@ -156,7 +156,7 @@ const Venda = () => {
                     ))}
                 </section>
 
-                {/* Exibição dos resultados da pesquisa */}
+                {/* Botão de Páginas*/}
                 <div className="text-center mt-8">
                     <div className="flex flex-wrap justify-center">
                         <Link to="/venda" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/venda' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>1</Link>
