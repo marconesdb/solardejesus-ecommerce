@@ -10,6 +10,14 @@ import livro5 from '../images/Caminho Espírita/Caminho Espirita.jpg';
 import livro6 from '../images/Caminho Verdade e Vida/caminho verdade e vida.jpg';
 import livro7 from '../images/Ceifa de Luz/Ceifa de Luz.jpg';
 import livro8 from '../images/Cinquenta Anos depois/Cinquenta anos depois.png';
+import livro9 from '../images/Entre a Terra e o Céu/Entre a Terra e o Céu.jpg';
+import livro10 from '../images/Estamos no Além/Estamos no Além.jpg';
+import livro11 from '../images/Claramente Vivos/Claramente Vivos.jpg';
+import livro12 from '../images/Contos de Apólogos/Contos de Apólogos.jpg';
+import livro13 from '../images/Contos desta e doutra Vida/Contos desta e doutra Vida.jpg';
+import livro14 from '../images/Coragem/Coragem.jpg';
+import livro15 from '../images/Crônicas de Além-Túmulo/Crônicas de Além-Túmulo.jpg';
+import livro16 from '../images/E a vida continua/E a vida continua.jpg';
 import { Link,  useLocation } from 'react-router-dom';
 const Venda = () => {
   
@@ -140,8 +148,117 @@ const Venda = () => {
             </div>
         </section>
 
+{/* Section 3 */}
+<hr className="mt-8 mb-8 mr-4 ml-4"/>
+<section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+            {/* Livro 9 */}
+            <div className="bg-white rounded-lg shadow-md overflow-hidden mr-4 ml-4">
+                <img src={livro9} alt="Livro 1" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
+                <div className="p-4">
+                    <h2 className="text-xl font-bold mb-2">Entre a Terra e o Céu</h2>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>"Quase em todas as páginas desta obra, encontramos a rotina das almas que almejam vencer a si mesmas, utilizando os recursos do tempo para adquirir uma nova e renovada luz." De acordo com a psicografia de Francisco Cândido Xavier, o Espírito André Luiz compartilha... </p>
+                    <div className="mt-4 flex justify-between items-center">
+                        <span className="font-bold text-xl">R$80,00</span>
+                        <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
+                    </div>
+                </div>
+            </div>
+            {/* Livro 10 */}
+            <div className="bg-white rounded-lg shadow-md overflow-hidden mr-4 ml-4">
+                <img src={livro10} alt="Livro 2" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
+                <div className="p-4">
+                    <h2 className="text-xl font-bold mb-2">Estamos no Além</h2>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>"Eis aqui, caro leitor, o livro que te apresentamos para tua leitura e reflexão. Que estas páginas repletas de amor e conforto, encontro e consolo, possam te guiar na jornada de renovação pessoal que todos buscamos, sob a proteção de Jesus. São os nossos sinceros votos."...</p>
+                    <div className="mt-4 flex justify-between items-center">
+                        <span className="font-bold text-xl">R$40,00</span>
+                        <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
+                    </div>
+                </div>
+            </div>
+
+            {/* Livro 11 */}
+            <div className="bg-white rounded-lg shadow-md overflow-hidden mr-4 ml-4">
+                <img src={livro11} alt="Livro 3" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
+                <div className="p-4">
+                    <h2 className="text-xl font-bold mb-2">Claramente Vivos</h2>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>Esta obra é uma das respostas do Plano Espiritual a muitas das nossas perguntas sobre o tema da desencarnação. Ao percorrer as páginas deste volume, qualquer pessoa sensata reconhecerá que aqueles que são tidos como falecidos continuam, de forma...</p>
+                    <div className="mt-4 flex justify-between items-center">
+                        <span className="font-bold text-xl">R$40,00</span>
+                        <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
+                    </div>
+                </div>
+            </div>
+
+            {/* Livro 12 */}
+            <div className="bg-white rounded-lg shadow-md overflow-hidden mr-4 ml-4">
+                <img src={livro12} alt="Livro 4" className="w-full object-contain sm:h-auto mt-4 " style={{ height: '450px' }} />
+                <div className="p-4">
+                    <h2 className="text-xl font-bold mb-2">Contos e Apólogos</h2>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>O autor espiritual nos convida à leitura de seus contos e parábolas! "Trago apenas as histórias simples e humildes que ouvi de outros viajantes. Receba-as, elas são nossas". Assim, Irmão X apresenta a você, estimado leitor, esta obra que abriga grande sabedoria... </p>
+                    <div className="mt-4 flex justify-between items-center">
+                        <span className="font-bold text-xl">R$60,00</span>
+                        <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
+{/* Section 4 */}
+<hr className="mt-8 mb-8 mr-4 ml-4"/>
+<section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+            {/* Livro 13 */}
+            <div className="bg-white rounded-lg shadow-md overflow-hidden mr-4 ml-4">
+                <img src={livro13} alt="Livro 1" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
+                <div className="p-4">
+                    <h2 className="text-xl font-bold mb-2">Contos desta e doutra vida</h2>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>Com narrativas envolventes que retratam exemplos da vida diária, o autor transmite valiosos ensinamentos aos "viajantes da Terra", seja enfrentando pequenos obstáculos, seja refletindo sobre escolhas que conduzam ao sucesso. Em contos simples... </p>
+                    <div className="mt-4 flex justify-between items-center">
+                        <span className="font-bold text-xl">R$45,00</span>
+                        <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
+                    </div>
+                </div>
+            </div>
+            {/* Livro 14 */}
+            <div className="bg-white rounded-lg shadow-md overflow-hidden mr-4 ml-4">
+                <img src={livro14} alt="Livro 2" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
+                <div className="p-4">
+                    <h2 className="text-xl font-bold mb-2">Coragem</h2>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>Para uma alma em evolução que ainda somos, este livro pode servir como um guia na formação do homem virtuoso de amanhã. São ensinamentos simples, baseados nos princípios cristãos, que tocam profundamente nossos corações e nos impulsionam a ser pessoas...</p>
+                    <div className="mt-4 flex justify-between items-center">
+                        <span className="font-bold text-xl">R$40,00</span>
+                        <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
+                    </div>
+                </div>
+            </div>
+
+            {/* Livro 15 */}
+            <div className="bg-white rounded-lg shadow-md overflow-hidden mr-4 ml-4">
+                <img src={livro15} alt="Livro 3" className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
+                <div className="p-4">
+                    <h2 className="text-xl font-bold mb-2">Crônicas de Além-Túmulo</h2>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>O Espírito Humberto de Campos, por meio da psicografia de Chico Xavier, reúne uma série de elucidativas crônicas, abordando temas diversos como longevidade, paz, verdade e justiça, além de retratar figuras como Sócrates, Charles Richet, os apóstolos Pedro...</p>
+                    <div className="mt-4 flex justify-between items-center">
+                        <span className="font-bold text-xl">R$60,00</span>
+                        <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
+                    </div>
+                </div>
+            </div>
+
+            {/* Livro 16 */}
+            <div className="bg-white rounded-lg shadow-md overflow-hidden mr-4 ml-4">
+                <img src={livro16} alt="Livro 4" className="w-full object-contain sm:h-auto mt-4 " style={{ height: '450px' }} />
+                <div className="p-4">
+                    <h2 className="text-xl font-bold mb-2">E a vida continua</h2>
+                    <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>
+                    O Espírito André Luiz narra as histórias de Ernesto e Evelina, dois indivíduos doentes que se encontram às vésperas de cirurgias arriscadas. Ele é um pensador livre e experiente, enquanto ela é uma jovem esposa católica devota. Em breve, descobrirão que a doença</p>
+                    <div className="mt-4 flex justify-between items-center">
+                        <span className="font-bold text-xl">R$71,00</span>
+                        <Link to="/comprovante" className="px-4 py-2 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600">Comprar Agora</Link>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
 
