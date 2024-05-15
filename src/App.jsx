@@ -51,7 +51,7 @@ function App() {
      <Route path='/pagina2' element={<Pagina2/>}/>
      <Route path='/pagina3' element={<Pagina3/>}/>
      <Route path='/pagina4' element={<Pagina4/>}/>
-     <Route path='/pagina5' element={<Pagina5/>}/>
+     {/* <Route path='/pagina5' element={<Pagina5/>}/> */}
      <Route path='/comprovante' element={<Comprovante/>}/>
      <Route path='*' element={<h1>Not Found</h1>}/>
    </Routes>

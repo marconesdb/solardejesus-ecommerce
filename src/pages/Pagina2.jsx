@@ -64,7 +64,7 @@ const Pagina2 = () => {
                         <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden mr-4 ml-4">
                             <img src={book.image} alt={book.title} className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
                             <div className="p-4">
-                                <h2 className="text-xl font-bold mb-2">{book.title}</h2>
+                                <h2 className="text-xl font-bold mb-2" style={{ height: '50px' }}>{book.title}</h2>
                                 <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>{book.description}</p>
                                 <div className="mt-4 flex justify-between items-center">
                                     <span className="font-bold text-xl">R${book.price}</span>
@@ -88,7 +88,7 @@ const Pagina2 = () => {
                         <Link to="/Pagina2" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/Pagina2' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>2</Link>
                         <Link to="/Pagina3" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/Pagina3' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>3</Link>
                         <Link to="/Pagina4" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/Pagina4' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>4</Link>
-                        <Link to="/Pagina5" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/Pagina5' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>5</Link>
+                        {/* <Link to="/Pagina5" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 ${location.pathname === '/Pagina5' ? 'bg-amber-500 text-white' : 'hover:bg-amber-500'}`}>5</Link> */}
                         <Link to="/Pagina3" className={`rounded-full border-2 border-gray-500 px-4 py-2 m-1 hover:bg-amber-500`}>Próximos</Link>
                     </div>
                 </div>

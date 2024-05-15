@@ -62,7 +62,7 @@ const Pagina5 = () => {
                         <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden mr-4 ml-4">
                             <img src={book.image} alt={book.title} className="w-full object-contain sm:h-auto mt-4" style={{ height: '450px' }} />
                             <div className="p-4">
-                                <h2 className="text-xl font-bold mb-2">{book.title}</h2>
+                                <h2 className="text-xl font-bold mb-2" style={{ height: '50px' }}>{book.title}</h2>
                                 <p className="text-gray-700" style={{ height: '170px', overflow: 'hidden' }}>{book.description}</p>
                                 <div className="mt-4 flex justify-between items-center">
                                     <span className="font-bold text-xl">R${book.price}</span>
