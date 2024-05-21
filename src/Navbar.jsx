@@ -189,12 +189,12 @@ const Navbar = () => {
                   <Menu.Item>
                     {({ active }) => (
                       <Link
-                        to="/venda"
+                        to="/transmissao"
                         className={`${
                           active ? 'bg-gray-100 text-gray-900' : 'text-gray-700'
                         } group flex rounded-md items-center w-full px-2 py-2 text-sm`}
                       >
-                        Venda de Livros
+                        Transmissão Online
                       </Link>
                     )}
                   </Menu.Item>
@@ -203,10 +203,10 @@ const Navbar = () => {
             </Menu>
 
             <Link
-              to="/transmissao"
+              to="/venda"
               className="text-gray-800 px-3 py-2 rounded-md text-sm font-medium border-b border-transparent hover:border-orange400 hover:text-gray-500 transition duration-300"
             >
-              Transmissão Online
+             Venda de Livros
             </Link>
 
             <Link
