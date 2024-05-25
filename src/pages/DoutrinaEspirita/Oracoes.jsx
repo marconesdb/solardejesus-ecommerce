@@ -85,8 +85,10 @@ import audioEnglish21 from './Audio-Orações/Prayer for a ray of light in the w
 import audioPortugues22 from './Audio-Orações/Mães em Desespero.mp4';
 import audioEspanol22 from './Audio-Orações/Madres desesperadas.mp3';
 import audioEnglish22 from './Audio-Orações/Mothers in Despair.mp3';
+import audioPortugues23 from './Audio-Orações/Oração pela Ansiedade.mp4';
 import audioEspanol23 from './Audio-Orações/Oración por lá ansiedad.mp3';
 import audioEnglish23 from './Audio-Orações/Prayer for Anxiety.mp3';
+import audioPortugues24 from './Audio-Orações/Oração da Unidade - Português.mp4';
 import audioEspanol24 from './Audio-Orações/Oración de Unidad.mp3';
 import audioEnglish24 from './Audio-Orações/Prayer of Unity.mp3';
 
@@ -1048,7 +1050,7 @@ export default function Oracoes() {
             </p>
             <p><b><em>Oração em áudio: Português</em></b></p>
             <audio controls>
-              <source src={audioPortugues1} type="audio/mp3" />
+              <source src={audioPortugues23} type="audio/mp3" />
               Seu navegador não suporta o elemento de áudio.
             </audio>
             <p><b><em>Audio Prayer: English</em></b></p>
@@ -1097,7 +1099,7 @@ export default function Oracoes() {
             </p>
             <p><b><em>Oração em áudio: Português</em></b></p>
             <audio controls>
-              <source src={audioPortugues1} type="audio/mp3" />
+              <source src={audioPortugues24} type="audio/mp3" />
               Seu navegador não suporta o elemento de áudio.
             </audio>
             <p><b><em>Audio Prayer: English</em></b></p>
