@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import PropTypes from 'prop-types';
 import img1 from '../img-cartaz-palestras/1.png';
 import img2 from '../img-cartaz-palestras/2.png';
@@ -15,15 +15,22 @@ const Modal = ({ isOpen, onClose, imgSrc, imgAlt }) => {
 
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50">
-      <div className="bg-white max-w-4xl p-4 rounded-lg shadow-lg relative scale-100 transform transition-transform duration-300">
-        <button className="absolute top-0 right-0 mt-2 mr-2 text-gray-600 hover:text-gray-900" onClick={onClose}>
-          Fechar
-        </button>
-        <img src={imgSrc} alt={imgAlt} className="w-full max-h-full" style={{ maxHeight: 'calc(100vh - 100px)' }} />
+      <div className="bg-white max-w-full md:max-w-4xl p-4 rounded-lg shadow-lg relative">
+        <div className='top-[-8] pb-8'>
+          <button className="absolute  right-4 z-50 text-gray-600 hover:text-gray-900" onClick={onClose}>
+           Fechar
+          </button>
+        </div>
+        <div className="relative">
+          <img src={imgSrc} alt={imgAlt} className="w-full h-auto max-h-full md:max-h-screen" style={{ maxHeight: 'calc(100vh - 100px)' }} />
+        </div>
       </div>
     </div>
   );
 };
+
+
+
 
 Modal.propTypes = {
   isOpen: PropTypes.bool.isRequired,
@@ -37,7 +44,7 @@ const ImageContainer = ({ src, alt }) => {
 
   return (
     <>
-      <div className={`w-full md:w-64 h-80 flex items-center justify-center border border-gray-300 rounded-lg overflow-hidden mx-auto cursor-pointer transition duration-300 transform hover:scale-105`} onClick={() => setModalOpen(true)}>
+      <div className={`w-full md:w-64 h-90 flex items-center justify-center border border-gray-300 rounded-lg overflow-hidden mx-auto cursor-pointer transition duration-300 transform hover:scale-105`} onClick={() => setModalOpen(true)}>
         <img
           className="object-cover object-center w-full h-full"
           src={src}

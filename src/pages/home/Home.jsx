@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import Navbar from '../../Navbar';
 import Footer from '../../Footer';
 import image1 from './img-carousel/Captura de Tela (4035).png'; // Adicione o caminho correto para image1
@@ -7,40 +7,20 @@ import image3 from './img-carousel/Captura de Tela (4037).png'; // Adicione o ca
 
 
 
-
+import SemanaEspirita from '../home/semanaEspirita';
 import myImage from '../home/img-home/DSCN9271.jpg';
 import Banner from '../home/Banner';
 import Modal from '../home/Modal';
 import Carousel from './Carousel';
 
 export default function Home() {
-  const images = [image1, image2, image3];
-  const [currentImageIndex, setCurrentImageIndex] = useState(0);
-
-  const nextImage = () => {
-    const newIndex = (currentImageIndex + 1) % images.length;
-    setCurrentImageIndex(newIndex);
-  };
-
-  const prevImage = () => {
-    const newIndex = (currentImageIndex - 1 + images.length) % images.length;
-    setCurrentImageIndex(newIndex);
-  };
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      nextImage();
-    }, 3000); // Altere este valor para ajustar o intervalo de tempo entre os slides (em milissegundos)
-
-    return () => clearInterval(interval);
-  }, [currentImageIndex]);
-
+  
   return (
     <div>
       
       <Navbar />
       <Carousel/>
-     
+      <SemanaEspirita/>
       <Modal />
        <Banner />
       {/* IMG - Oração */}

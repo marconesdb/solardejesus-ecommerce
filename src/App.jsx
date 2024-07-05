@@ -20,7 +20,6 @@ import Venda from './pages/Venda'
 import Pagina2 from './pages/Pagina2'
 import Pagina3 from './pages/Pagina3'
 import Pagina4 from './pages/Pagina4'
-import Pagina5 from './pages/Pagina5'
 import Comprovante from './pages/Comprovante'
 
 

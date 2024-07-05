@@ -7,7 +7,7 @@ import { livros1 } from '../pages/livros1';
 import { livros2 } from '../pages/livros2'; 
 import { livros3 } from '../pages/livros3'; 
 import { livros4 } from '../pages/livros4'; 
-import { livros5 } from '../pages/livros5'; 
+
 
 const Venda = () => {
     const [searchTerm, setSearchTerm] = useState('');
@@ -22,7 +22,7 @@ const Venda = () => {
             allBooks.push(...livros2);
             allBooks.push(...livros3);
             allBooks.push(...livros4);
-            allBooks.push(...livros5);
+          
         }
         return allBooks.filter(book =>
             book.title.toLowerCase().includes(term.toLowerCase())
