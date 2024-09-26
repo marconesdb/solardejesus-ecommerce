@@ -1,0 +1,26 @@
+import EvangelizacaoInfantil from '../img-cartaz-palestras/Evangelizacao.png';
+import Oracao from '../../../src/pages/img-cartaz-palestras/Oracao.png';
+
+const Evangelizacao = () => {
+  return (
+    <div className="flex flex-col mt-12 md:flex-row items-start justify-center p-6 space-y-6 md:space-y-0 md:space-x-12">
+      <div className="w-full max-w-[calc(100%+10px)] sm:max-w-sm md:max-w-lg lg:max-w-xl">
+        <img
+          src={EvangelizacaoInfantil}
+          alt="Promo Image"
+          className="w-full rounded-lg shadow-md"
+        />
+      </div>
+      <div className="w-full max-w-[calc(100%+10px)] sm:max-w-sm md:max-w-lg lg:max-w-xl">
+        <img
+          src={Oracao}
+          alt="Promo Image"
+          className="w-full rounded-lg shadow-md"
+        />
+    
+      </div>
+    </div>
+  );
+};
+
+export default Evangelizacao;

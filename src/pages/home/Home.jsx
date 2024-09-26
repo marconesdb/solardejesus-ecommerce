@@ -1,26 +1,23 @@
-import { useState, useEffect } from 'react';
 import Navbar from '../../Navbar';
 import Footer from '../../Footer';
-import image1 from './img-carousel/Captura de Tela (4035).png'; // Adicione o caminho correto para image1
-import image2 from './img-carousel/Captura de Tela (4036).png'; // Adicione o caminho correto para image2
-import image3 from './img-carousel/Captura de Tela (4037).png'; // Adicione o caminho correto para image3
-
-
-
 import SemanaEspirita from '../home/semanaEspirita';
 import myImage from '../home/img-home/DSCN9271.jpg';
 import Banner from '../home/Banner';
 import Modal from '../home/Modal';
 import Carousel from './Carousel';
+import EvangelizacaoInfantil from './EvangelizacaoInfantil';
+import DailyQuote from './DailyQuote';
+
 
 export default function Home() {
   
   return (
     <div>
-      
       <Navbar />
       <Carousel/>
+      <DailyQuote />
       <SemanaEspirita/>
+      <EvangelizacaoInfantil/>
       <Modal />
        <Banner />
       {/* IMG - Oração */}
@@ -33,8 +30,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      {/* Fim - IMG Oração */}
-      
+      {/* Fim - IMG Oração */} 
       <Footer />
     </div>
   );

@@ -18,7 +18,7 @@ export default function Footer() {
           <p>Telefone: (38) 3214-2878</p>
           <p>Alfredo Lorenço: (38) 99979-9996</p>
           <p>Cláudio Mendes: (38) 99166-0454</p>
-          <p>centroespiritasolardejesus@gmail.com</p>
+          <p>centroespiritasolardejesus@solardejesus.com.br</p>
           {/* Ícones de redes sociais */}
           <div className="flex justify-center md:justify-start mt-4">
             <a href="https://www.facebook.com/solardejesus/" target='_blank' className="text-gray-400 hover:text-blue-500 mr-4">

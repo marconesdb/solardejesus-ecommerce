@@ -1,4 +1,3 @@
-import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -6,12 +5,14 @@ import "slick-carousel/slick/slick-theme.css";
 import slide1 from '../home/img-carousel/Captura de Tela (4035).png';
 import slide2 from '../home/img-carousel/Captura de Tela (4036).png';
 import slide3 from '../home/img-carousel/Captura de Tela (4035).png';
+import slide4 from '../home/img-carousel/Captura de Tela (4036).png';
 
 export default function Carousel() {
   const slides = [
     slide1,
     slide2,
     slide3,
+    slide4,
   ];
 
   const settings = {
@@ -22,6 +23,7 @@ export default function Carousel() {
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 3000,
+    arrows: true,  // Certifique-se de que as setas estão habilitadas
     responsive: [
       {
         breakpoint: 1024,
@@ -30,7 +32,7 @@ export default function Carousel() {
           slidesToScroll: 1,
           infinite: true,
           dots: true,
-          arrows: true,
+          arrows: true,  // Habilite as setas para esta quebra de ponto
         },
       },
       {
@@ -40,7 +42,7 @@ export default function Carousel() {
           slidesToScroll: 1,
           infinite: true,
           dots: true,
-          arrows: false,
+          arrows: false,  // Desabilite as setas para dispositivos móveis, se necessário
         },
       },
     ],
@@ -53,7 +55,7 @@ export default function Carousel() {
   };
 
   return (
-    <div className="mx-4 md:mx-8">
+    <div className="carousel-container  md:mx-8">
       <Slider {...settings}>
         {slides.map((slide, index) => (
           <div key={index}>
