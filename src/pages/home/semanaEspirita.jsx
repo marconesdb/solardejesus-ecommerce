@@ -13,7 +13,7 @@ const SemanaEspirita = () => {
       </div>
 
       {/* Comentado: Código para o iframe, caso precise ser reinserido */}
-      {/* 
+      
       <div className="w-full max-w-[calc(100%+10px)] sm:max-w-sm md:max-w-lg lg:max-w-xl">
         <div className="aspect-w-16 aspect-h-9 w-full rounded-lg shadow-md">
           <iframe
@@ -29,15 +29,15 @@ const SemanaEspirita = () => {
           ></iframe> 
         </div>
       </div> 
-      */}
+     
 
-      <div className="w-full max-w-[calc(100%+10px)] sm:max-w-sm md:max-w-lg lg:max-w-xl">
+      {/* <div className="w-full max-w-[calc(100%+10px)] sm:max-w-sm md:max-w-lg lg:max-w-xl">
         <img
           src={Oficina}
           alt="Promo Image"
           className="w-full rounded-lg shadow-md"
         />
-      </div>
+      </div> */}
     </div>
   );
 };
