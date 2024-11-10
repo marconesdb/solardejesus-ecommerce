@@ -24,227 +24,225 @@
   
 },
 
-  "quotes": {
-    "quote1": {
-      "text": "Fuera de la caridad no hay salvación.",
-      "author": "Allan Kardec"
-    },
-    "quote2": {
-      "text": "Dios nos concede, cada día, una nueva página de vida en el libro del tiempo. Lo que pongamos en ella corre por nuestra cuenta.",
-      "author": "Chico Xavier"
-    },
+    "quotes": {
+      "quote1": {
+        "text": "Fuera de la caridad no hay salvación.",
+        "author": "Allan Kardec"
+      },
+      "quote2": {
+        "text": "Dios nos concede, cada día, una página de vida nueva en el libro del tiempo. Lo que pongamos en ella, corre por nuestra cuenta.",
+        "author": "Chico Xavier"
+      },
+      "quote3": {
+        "text": "Los hombres siembran en la tierra lo que cosecharán en la vida espiritual: los frutos de su valentía o de su debilidad.",
+        "author": "Allan Kardec"
+      },
+      "quote4": {
+        "text": "Nacer, morir, renacer de nuevo y progresar siempre, tal es la ley.",
+        "author": "Allan Kardec"
+      },
+      "quote5": {
+        "text": "El mayor bien que podemos hacer en favor de la doctrina espírita es su divulgación.",
+        "author": "Bezerra de Menezes, psicografiado por Chico Xavier"
+      },
+      "quote6": {
+        "text": "La vida en la Tierra es una escuela bendita, donde el sufrimiento es el instructor que enseña al alumno rebelde las grandes lecciones del alma.",
+        "author": "André Luiz, psicografiado por Chico Xavier"
+      },
+      "quote7": {
+        "text": "El perdón es la más alta expresión del amor.",
+        "author": "Joanna de Ângelis, psicografiado por Divaldo Franco"
+      },
+      "quote8": {
+        "text": "Cada dificultad vencida prepara al espíritu para alcanzar la victoria mayor.",
+        "author": "Emmanuel, psicografiado por Chico Xavier"
+      },
+      "quote9": {
+        "text": "El amor es la fuerza que une los mundos y rige los astros.",
+        "author": "Leon Denis"
+      },
+      "quote10": {
+        "text": "El coraje del amor crea la bendición del perdón.",
+        "author": "Emmanuel, psicografiado por Chico Xavier"
+      },
+      "quote11": {
+        "text": "La verdadera religión es aquella que nos hace mejores.",
+        "author": "Allan Kardec"
+      },
+      "quote12": {
+        "text": "La caridad es el amor, es el sol que Nuestro Señor hizo brillar claro y fecundo; alegrando en esta vida la existencia dolorida de los que sufren en este mundo.",
+        "author": "Casimiro Cunha, psicografiado por Chico Xavier"
+      },
+      "quote13": {
+        "text": "Tu irritación no solucionará ningún problema. Tu mal humor no modifica la vida. No arruines tu día.",
+        "author": "Chico Xavier"
+      },
+      "quote14": {
+        "text": "La reencarnación es la justicia de Dios en acción.",
+        "author": "Eurípedes Barsanulfo"
+      },
+      "quote15": {
+        "text": "Fe inquebrantable solo es aquella que puede enfrentar a la razón, en todas las épocas de la humanidad.",
+        "author": "Allan Kardec"
+      },
+      "quote16": {
+        "text": "Mejora todo dentro de ti, para que todo mejore alrededor de tus pasos.",
+        "author": "Chico Xavier"
+      },
+      "quote17": {
+        "text": "No conserves resentimientos en el corazón, sabiendo que aquel que te decepciona es un compañero vencido por sus propios conflictos.",
+        "author": "Bezerra de Menezes, psicografiado por Chico Xavier"
+      },
+      "quote18": {
+        "text": "Si erraste, no caigas en la desesperación, sino que, trabajando y sirviendo recibirás de Dios la oportunidad de la rectificación y de la paz.",
+        "author": "Meimei, psicografiado por Chico Xavier"
+      },
+      "quote19": {
+        "text": "El Amor vencerá siempre, y, por eso, el dolor será motivado a desaparecer de nuestro aún atribulado camino.",
+        "author": "Bezerra de Menezes, psicografiado por Chico Xavier"
+      },
+      "quote20": {
+        "text": "No siempre tendrás lo que deseas, pero mientras estés ayudando a otros encontrarás los recursos que necesitas.",
+        "author": "Chico Xavier"
+      },
+      "quote21": {
+        "text": "La caridad es un ejercicio espiritual. Quien practica el bien pone en movimiento las fuerzas del alma.",
+        "author": "Chico Xavier"
+      },
+      "quote22": {
+        "text": "Después de la muerte nadie camina con la luz ajena.",
+        "author": "Chico Xavier"
+      },
+      "quote23": {
+        "text": "Jesús pone la humildad en la categoría de las virtudes que acercan a Dios y el orgullo entre los vicios que alejan a la criatura de él.",
+        "author": "Allan Kardec"
+      },
+      "quote24": {
+        "text": "Perdona ahora, hoy y mañana, incondicionalmente. Recuerda que todas las criaturas traen consigo las imperfecciones y debilidades que les son peculiares, tanto como, aún desajustados, traemos también las nuestras.",
+        "author": "Emmanuel, psicografiado por Chico Xavier"
+      },
+      "quote25": {
+        "text": "Silencio para la injuria y perdón a las ofensas. Recuerda que los agresores son enfermos. No permitas que los hermanos desequilibrados te destruyan el trabajo o te apaguen la esperanza.",
+        "author": "Chico Xavier"
+      },
+      "quote26": {
+        "text": "El objetivo de tu vida en la Tierra no constituye la autoridad, la belleza o el confort efímero. Es el perfeccionamiento espiritual.",
+        "author": "André Luiz, psicografiado por Chico Xavier"
+      },
+      "quote27": {
+        "text": "La respuesta de Dios puede tardar un poco, pero jamás dejará de ser dada. Ese tiempo de espera sirve para probar la fe, la perseverancia y la confianza. Es una prueba de paciencia y la oportunidad de desarrollar la fuerza interior, la alegría y el coraje.",
+        "author": "Bezerra de Menezes, psicografiado por Chico Xavier"
+      },
+      "quote28": {
+        "text": "Ámate, respetándote, y actuando de manera que no te avergüences de ti mismo cuando seas sometido al cribado de la conciencia.",
+        "author": "Joanna de Ângelis, psicografiado por Divaldo P. Franco"
+      },
+      "quote29": {
+        "text": "Sean cuales sean las circunstancias, enciende la luz de la esperanza en la mente, la alegría del Amor de Dios en el corazón y espera.",
+        "author": "Joanna de Ângelis, psicografiado por Divaldo P. Franco"
+      },
+      "quote30": {
+        "text": "Piensa, sin embargo, en el amparo de Dios y, en todos los episodios del camino, lo sentirás contigo en el silencio del corazón.",
+        "author": "Emmanuel, psicografiado por Chico Xavier"
+      },
+      "quote31": {
+        "text": "En todas partes, la palabra es índice de nuestra posición evolutiva. Es indispensable mejorarla y ennoblecerla.",
+        "author": "Emmanuel, psicografiado por Chico Xavier"
+      },
+      "quote32": {
+        "text": "En todas las pruebas, ora y sigue adelante, rogando al Señor que te ayude a mantener la conciencia tranquila, en el desempeño de los deberes que te competen.",
+        "author": "Emmanuel, psicografiado por Chico Xavier"
+      },
+      "quote33": {
+        "text": "Cada vez que la Justicia Divina nos busca para ajuste de cuentas, si nos encuentra trabajando en beneficio de otros, manda la Misericordia Divina que el cobro sea suspendido por tiempo indeterminado.",
+        "author": "Chico Xavier"
+      },
+      "quote34": {
+        "text": "La reencarnación es siempre evolución, recapitulación, enseñanza, aprendizaje, y todo esto cuesta esfuerzo, obstáculos y sudor. Sin embargo, en muchas circunstancias, es trabajo expiatorio, regeneración o proceso curativo.",
+        "author": "André Luiz, psicografiado por Chico Xavier"
+      },
+      "quote35": {
+        "text": "Nuestra felicidad será naturalmente proporcional en relación a la felicidad que hagamos para los otros. La alegría del prójimo comienza muchas veces en la sonrisa que tú le quieras dar.",
+        "author": "Chico Xavier"
+      },
+      "quote36": {
+        "text": "Estúdiate a ti mismo, observando que el autoconocimiento trae humildad y sin humildad es imposible ser feliz.",
+        "author": "Allan Kardec"
+      },
+      "quote37": {
+        "text": "Persiste un poco más. No cultives el pesimismo. Céntrate en el bien por hacer. Olvida las sugerencias del miedo destructivo. Sigue adelante, aunque sea atravesando la sombra de los propios errores. Avanza aunque sea entre lágrimas. Y así vencerás.",
+        "author": "Chico Xavier"
+      },
+      "quote38": {
+        "text": "Ocupa tu tiempo disponible con el trabajo provechoso, sin olvidar el descanso imprescindible para el justo restablecimiento. La sugestión de las tinieblas llega hasta nosotros por la hora vacía.",
+        "author": "André Luiz, psicografiado por Chico Xavier"
+      },
+      "quote39": {
+        "text": "Concédete mayor dosis de confianza en tus valores, honrándote con el esfuerzo para mejorar siempre y sin desánimo. Si erras, repite la acción, y si aciertas, sigue adelante.",
+        "author": "Joanna de Ângelis, psicografiado por Divaldo P. Franco"
+      },
+      "quote40": {
+        "text": "...¡Camina hacia adelante, regocíjate con el sufrimiento que te ajusta las cuentas y bendice los obstáculos que te hacen más experto y más noble!...",
+        "author": "Emmanuel, psicografiado por Chico Xavier"
+      },
+      "quote41": {
+        "text": "Existen Benefactores queridos que os asesoran, que participan de vuestras noches de insomnio y de las angustias de vuestros corazones. Aprended a oírlos, sintonizando con esos ángeles tutelares a través de la oración, por el pensamiento volcado hacia el Bien.",
+        "author": "Bezerra de Menezes, psicografiado por Chico Xavier"
+      },
+      "quote42": {
+        "text": "...Reajustémonos, para corresponder a la protección que el Señor nos ha dispensado. La dificultad es nuestro peldaño de ascensión. No nos faltará el amparo Divino. ¡Guardemos la serenidad! ¡Nuestra fe viva, nuestro valor!",
+        "author": "Bezerra de Menezes, psicografiado por Chico Xavier"
+      },
+      "quote43": {
+        "text": "La batalla más difícil de ser librada ocurre en tu mundo íntimo. Nadie la ve, aplaude o la censura. Es tuya. Victoria, o derrota, te pertenecerá en silencio. Ninguna ayuda exterior podrá contribuir para tu éxito, o coyuntura alguna te llevará al fracaso.",
+        "author": "Joanna de Ângelis, psicografiado por Divaldo P. Franco"
+      },
+      "quote44": {
+        "text": "Coopera con la vida, esparciendo bendiciones donde estés, con quien te encuentres, conforme surja la oportunidad. Retribuye con amor al amor que la vida te ofrece...",
+        "author": "Joanna de Ângelis, psicografiado por Divaldo P. Franco"
+      },
+      "quote45": {
+        "text": "Cuando comprendas que la cosecha de hoy corresponde exactamente a la siembra de ayer, nada más lamentarás sino tu propia falta de discernimiento en el instante de elegir la semilla que, deliberadamente, lanzaste en el suelo de la vida.",
+        "author": "André Luiz, psicografiado por Chico Xavier"
+      },
+      "quote46": {
+        "text": "No permitas que pensamientos infelices creen raíces en tu mente. La vida no se resume a los problemas que enfrentas en este momento. Por encima de ellos, sonríen para ti innumerables oportunidades de progreso espiritual. Basta que confíes en Dios y hagas lo mejor a tu alcance.",
+        "author": "Irmã Scheilla, psicografiado por Chico Xavier"
+      },
+      "quote47": {
+        "text": "Ora y actúa. Sirve y confía. El pesimismo nunca dispone de la última palabra. Espera por Dios y conserva la certeza de que Dios hace siempre lo mejor.",
+        "author": "Emmanuel, psicografiado por Chico Xavier"
+      },
+      "quote48": {
+        "text": "No pierdas tu fe entre las sombras del mundo. Aunque tus pies estén sangrando, sigue hacia adelante, elevándote por luz celestial por encima de ti mismo. Cree y trabaja. Esfuérzate en el bien y espera con paciencia. Todo pasa y todo se renueva en la Tierra, pero lo que viene del Cielo permanecerá.",
+        "author": "Meimei, psicografiado por Chico Xavier"
+      },
+      "quote49": {
+        "text": "Resérvate el derecho de permanecer indiferente a las provocaciones de cualquier naturaleza. En una época de insensatez como esta, el mal anda en libertad, seduciendo a los incautos.",
+        "author": "Joanna de Ângelis, psicografiado por Divaldo P. Franco"
+      },
+      
+        "quote50": {
+          "text": "Perdona a tus perseguidores. Ellos ya son infelices, en razón de lo que cultivan en su interior y de lo que realmente son.",
+          "author": "Joanna de Ângelis, psicografiado por Divaldo P. Franco"
+        },
+        "quote51": {
+          "text": "Cuando estés a punto de desfallecer, busca refugio en la oración. Orando, se renovarán tus paisajes mentales y morales, elevando tu ánimo y reconfortándote espiritualmente.",
+          "author": "Joanna de Ângelis, psicografiado por Divaldo P. Franco"
+        },
+        "quote52": {
+          "text": "Levanta al caído, ayuda al aturdido, socorre al afligido, entrégate a la vida y la vida te responderá en dádivas de esperanza y progreso superior.",
+          "author": "Joanna de Ângelis, psicografiado por Divaldo P. Franco"
+        },
+        "quote53": {
+          "text": "El bien que haces hoy puede ser olvidado mañana. Haz el bien de todos modos. Mira que, al final de cuentas, ¡todo es entre tú y Dios! Nunca fue entre tú y los demás.",
+          "author": "Madre Teresa de Calcuta"
+        },
 
-    
-   "quote3": {
-    "text": "Nacer, morir, renacer de nuevo y progresar siempre, tal es la ley.",
-    "author": "Allan Kardec"
-  },
-
-    "quote4": {
-        "text": "",
-        "author": ""
-    },
-    "quote5": {
-        "text": "",
-        "author": ""
-    },
-    "quote6": {
-        "text": "",
-        "author": ""
-    },
-    "quote7": {
-        "text": "",
-        "author": ""
-    },
-    "quote8": {
-        "text": "",
-        "author": ""
-    },
-    "quote9": {
-        "text": "",
-        "author": ""
-    },
-    "quote10": {
-        "text": "",
-        "author": ""
-    },
-    "quote11": {
-        "text": "",
-        "author": ""
-    },
-    "quote12": {
-        "text": "",
-        "author": ""
-    },
-    "quote13": {
-        "text": "",
-        "author": ""
-    },
-    "quote14": {
-        "text": "",
-        "author": ""
-    },
-    "quote15": {
-        "text": "",
-        "author": ""
-    },
-    "quote16": {
-        "text": "",
-        "author": ""
-    },
-    "quote17": {
-        "text": "",
-        "author": ""
-    },
-    "quote18": {
-        "text": "",
-        "author": ""
-    },
-    "quote19": {
-        "text": "",
-        "author": ""
-    },
-    "quote20": {
-        "text": "",
-        "author": ""
-    },
-    "quote21": {
-        "text": "",
-        "author": ""
-    },
-    "quote22": {
-        "text": "",
-        "author": ""
-    },
-    "quote23": {
-        "text": "",
-        "author": ""
-    },
-    "quote24": {
-        "text": "",
-        "author": ""
-    },
-    "quote25": {
-        "text": "",
-        "author": ""
-    },
-    "quote26": {
-        "text": "",
-        "author": ""
-    },
-    "quote27": {
-        "text": "",
-        "author": ""
-    },
-    "quote28": {
-        "text": "",
-        "author": ""
-    },
-    "quote29": {
-        "text": "",
-        "author": ""
-    },
-    "quote30": {
-        "text": "",
-        "author": ""
-    },
-    "quote31": {
-        "text": "",
-        "author": ""
-    },
-    "quote32": {
-        "text": "",
-        "author": ""
-    },
-    "quote33": {
-        "text": "",
-        "author": ""
-    },
-    "quote34": {
-        "text": "",
-        "author": ""
-    },
-    "quote35": {
-        "text": "",
-        "author": ""
-    },
-    "quote36": {
-        "text": "",
-        "author": ""
-    },
-    "quote37": {
-        "text": "",
-        "author": ""
-    },
-    "quote38": {
-        "text": "",
-        "author": ""
-    },
-    "quote39": {
-        "text": "",
-        "author": ""
-    },
-    "quote40": {
-        "text": "",
-        "author": ""
-    },
-    "quote41": {
-        "text": "",
-        "author": ""
-    },
-    "quote42": {
-        "text": "",
-        "author": ""
-    },
-    "quote43": {
-        "text": "",
-        "author": ""
-    },
-    "quote44": {
-        "text": "",
-        "author": ""
-    },
-    "quote45": {
-        "text": "",
-        "author": ""
-    },
-    "quote46": {
-        "text": "",
-        "author": ""
-    },
-    "quote47": {
-        "text": "",
-        "author": ""
-    },
-    "quote48": {
-        "text": "",
-        "author": ""
-    },
-    "quote49": {
-        "text": "",
-        "author": ""
-    },
-    "quote50": {
-        "text": "",
-        "author": ""
-    },
-    "quote51": {
-        "text": "",
-        "author": ""
-    },
-    "quote52": {
-        "text": "",
-        "author": ""
-    },
-    "quote53": {
-        "text": "",
-        "author": ""
-    },
-    "quote54": {
-        "text": "",
-        "author": ""
+        "quote54": {
+            "text": "",
+            "author": ""
+        }
+ 
     }
-}
-
-
 }
