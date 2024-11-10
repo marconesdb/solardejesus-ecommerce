@@ -17,7 +17,7 @@ const Navbar = () => {
   const changeLanguage = (lang) => {
     i18n.changeLanguage(lang);
   };
-
+  
 
   return (
     <nav className="bg-white fixed top-0 left-0 right-0 z-20">

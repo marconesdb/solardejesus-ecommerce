@@ -20,5 +20,229 @@
     "french": "French",
     "spanish": "Spanish",
     "portuguese": "Portuguese"
-  }
+  
+},
+
+  "quotes": {
+    "quote1": {
+      "text": "Outside of charity there is no salvation.",
+      "author": "Allan Kardec"
+    },
+    "quote2": {
+      "text": "God grants us, each day, a new page of life in the book of time. What we put in it runs on our account.",
+      "author": "Chico Xavier"
+    },
+
+    
+   "quote3": {
+    "text": "To be born, die, be reborn again, and constantly progress – such is the law.",
+    "author": "Allan Kardec"
+  },
+
+    "quote4": {
+        "text": "",
+        "author": ""
+    },
+    "quote5": {
+        "text": "",
+        "author": ""
+    },
+    "quote6": {
+        "text": "",
+        "author": ""
+    },
+    "quote7": {
+        "text": "",
+        "author": ""
+    },
+    "quote8": {
+        "text": "",
+        "author": ""
+    },
+    "quote9": {
+        "text": "",
+        "author": ""
+    },
+    "quote10": {
+        "text": "",
+        "author": ""
+    },
+    "quote11": {
+        "text": "",
+        "author": ""
+    },
+    "quote12": {
+        "text": "",
+        "author": ""
+    },
+    "quote13": {
+        "text": "",
+        "author": ""
+    },
+    "quote14": {
+        "text": "",
+        "author": ""
+    },
+    "quote15": {
+        "text": "",
+        "author": ""
+    },
+    "quote16": {
+        "text": "",
+        "author": ""
+    },
+    "quote17": {
+        "text": "",
+        "author": ""
+    },
+    "quote18": {
+        "text": "",
+        "author": ""
+    },
+    "quote19": {
+        "text": "",
+        "author": ""
+    },
+    "quote20": {
+        "text": "",
+        "author": ""
+    },
+    "quote21": {
+        "text": "",
+        "author": ""
+    },
+    "quote22": {
+        "text": "",
+        "author": ""
+    },
+    "quote23": {
+        "text": "",
+        "author": ""
+    },
+    "quote24": {
+        "text": "",
+        "author": ""
+    },
+    "quote25": {
+        "text": "",
+        "author": ""
+    },
+    "quote26": {
+        "text": "",
+        "author": ""
+    },
+    "quote27": {
+        "text": "",
+        "author": ""
+    },
+    "quote28": {
+        "text": "",
+        "author": ""
+    },
+    "quote29": {
+        "text": "",
+        "author": ""
+    },
+    "quote30": {
+        "text": "",
+        "author": ""
+    },
+    "quote31": {
+        "text": "",
+        "author": ""
+    },
+    "quote32": {
+        "text": "",
+        "author": ""
+    },
+    "quote33": {
+        "text": "",
+        "author": ""
+    },
+    "quote34": {
+        "text": "",
+        "author": ""
+    },
+    "quote35": {
+        "text": "",
+        "author": ""
+    },
+    "quote36": {
+        "text": "",
+        "author": ""
+    },
+    "quote37": {
+        "text": "",
+        "author": ""
+    },
+    "quote38": {
+        "text": "",
+        "author": ""
+    },
+    "quote39": {
+        "text": "",
+        "author": ""
+    },
+    "quote40": {
+        "text": "",
+        "author": ""
+    },
+    "quote41": {
+        "text": "",
+        "author": ""
+    },
+    "quote42": {
+        "text": "",
+        "author": ""
+    },
+    "quote43": {
+        "text": "",
+        "author": ""
+    },
+    "quote44": {
+        "text": "",
+        "author": ""
+    },
+    "quote45": {
+        "text": "",
+        "author": ""
+    },
+    "quote46": {
+        "text": "",
+        "author": ""
+    },
+    "quote47": {
+        "text": "",
+        "author": ""
+    },
+    "quote48": {
+        "text": "",
+        "author": ""
+    },
+    "quote49": {
+        "text": "",
+        "author": ""
+    },
+    "quote50": {
+        "text": "",
+        "author": ""
+    },
+    "quote51": {
+        "text": "",
+        "author": ""
+    },
+    "quote52": {
+        "text": "",
+        "author": ""
+    },
+    "quote53": {
+        "text": "",
+        "author": ""
+    },
+    "quote54": {
+        "text": "",
+        "author": ""
+    }
+}
+
 }
