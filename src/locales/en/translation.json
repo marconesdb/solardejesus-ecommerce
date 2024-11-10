@@ -1,0 +1,24 @@
+{
+  "navbar": {
+    "home": "Home",
+    "whoWeAre": "Who We Are",
+    "ourHistory": "Our History",
+    "gallery": "Gallery",
+    "ourMoments": "Our Moments",
+    "ourWorks": "Our Works",
+    "honorees": "Honorees",
+    "spiritDoctrine": "Spirit Doctrine",
+    "basicWorks": "Basic Works",
+    "spiritArticles": "Spirit Articles",
+    "prayers": "Prayers",
+    "downloads": "Downloads",
+    "bookSale": "Book Sale",
+    "donations": "Donations",
+    "contact": "Contact",
+    "language": "Language",
+    "english": "English",
+    "french": "French",
+    "spanish": "Spanish",
+    "portuguese": "Portuguese"
+  }
+}

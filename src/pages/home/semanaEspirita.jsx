@@ -1,5 +1,5 @@
 import cartazSemanaEspirita from './semana-espirita/Cartaz-Solar de Jesus.png';
-import Oficina from '../../../src/pages/img-cartaz-palestras/Oficina.png';
+// import Oficina from '../../../src/pages/img-cartaz-palestras/Oficina.png';
 
 const SemanaEspirita = () => {
   return (

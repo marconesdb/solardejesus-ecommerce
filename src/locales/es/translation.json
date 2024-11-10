@@ -1,0 +1,25 @@
+
+{
+  "navbar": {
+    "home": "Inicio",
+    "whoWeAre": "Quiénes Somos",
+    "ourHistory": "Nuestra Historia",
+    "gallery": "Galería",
+    "ourMoments": "Nuestros Momentos",
+    "ourWorks": "Nuestros Trabajos",
+    "honorees": "Homenajeados",
+    "spiritDoctrine": "Doctrina Espírita",
+    "basicWorks": "Obras Básicas",
+    "spiritArticles": "Artículos Espíritas",
+    "prayers": "Oraciones",
+    "downloads": "Descargas",
+    "bookSale": "Venta de Libros",
+    "donations": "Donaciones",
+    "contact": "Contacto",
+    "language": "Idioma",
+    "english": "Inglés",
+    "french": "Francés",
+    "spanish": "Español",
+    "portuguese": "Portugués"
+  }
+}

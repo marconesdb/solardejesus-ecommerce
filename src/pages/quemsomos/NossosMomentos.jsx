@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import Footer from '../../Footer';
 import Navbar from '../../Navbar';
 import ReactPlayer from 'react-player';
 import thumbnailImage1 from './img-nossosmomentos/Snapinsta.app_403962682_316885447826703_1152426539391938943_n_1080.jpg';
+import thumbnailImage2 from '../img-cartaz-palestras/Aniversario.jpeg';
 
 export default function NossosMomentos() {
   const [modalOpen, setModalOpen] = useState(false);
@@ -13,6 +14,10 @@ export default function NossosMomentos() {
     { id: 2, url: 'https://youtube.com/shorts/EIt8_l29nDg', title: 'Jantar ENREJE 2024', thumbnail: thumbnailImage1 },
     { id: 3, url: 'https://www.youtube.com/shorts/wqPV-OorCD8', title: 'Jantar ENREJE 2024', thumbnail: thumbnailImage1 },
     { id: 4, url: 'https://www.youtube.com/shorts/Kq1ypvViKzs', title: 'Abertura do ENREJE 2024', thumbnail: thumbnailImage1 },
+
+    { id: 5, url: 'https://www.youtube.com/watch?v=HqZnp9CCtUs&t=181s', title: 'Palestra especial no 42° aniversário do Solar de Jesus. Tema: Trabalho, Solidariedade e Tolerância', thumbnail: thumbnailImage2 },
+
+    { id: 6, url: 'https://www.youtube.com/watch?v=SjssZaOa-1Y', title: 'Palestra especial no 42° aniversário do Solar de Jesus. Tema: Evangelho e Vida', thumbnail: thumbnailImage2 },
     
   ];
 

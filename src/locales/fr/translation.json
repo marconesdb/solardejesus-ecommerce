@@ -1,0 +1,24 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "whoWeAre": "Qui Sommes-Nous",
+    "ourHistory": "Notre Histoire",
+    "gallery": "Galerie",
+    "ourMoments": "Nos Moments",
+    "ourWorks": "Nos Travaux",
+    "honorees": "Honorés",
+    "spiritDoctrine": "Doctrine Spirite",
+    "basicWorks": "Œuvres de Base",
+    "spiritArticles": "Articles Spirites",
+    "prayers": "Prières",
+    "downloads": "Téléchargements",
+    "bookSale": "Vente de Livres",
+    "donations": "Dons",
+    "contact": "Contact",
+    "language": "Langue",
+    "english": "Anglais",
+    "french": "Français",
+    "spanish": "Espagnol",
+    "portuguese": "Portugais"
+  }
+}
