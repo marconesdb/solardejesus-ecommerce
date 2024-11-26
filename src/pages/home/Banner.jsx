@@ -1,4 +1,4 @@
-import bannerVoluntariosDaAlegria from '../quemsomos/img-nossostrabalhos/Voluntários da Alegria.jpeg';
+import bannerVoluntariosDaAlegria from '../quemsomos/img-nossostrabalhos/Voluntários da Alegria.png';
 
 
 export default function Banner() {
@@ -18,17 +18,14 @@ export default function Banner() {
           <div className="md:w-1/2 md:pl-4 bg-orange-500 text-white rounded-bl-3xl rounded-tr-3xl bg-orange400 p-4">
             <h2 className="text-2xl font-bold mb-4">Seja um Voluntário da Alegria:</h2>
             <p className="text-lg ml-4 text-white mr-2">
-              "Ofereça seu amor ao próximo, doando seu tempo e proporcionando consolo moral e espiritual."
-            </p>
+              "Ofereça seu amor ao próximo, doando seu tempo e proporcionando consolo moral e espiritual."</p>
           </div>
         </div>
         {/* Fim do Banner Voluntários da Alegria */}
         
-        {/* Carrossel */}
-        
-        {/* Fim do Carrossel */}
+       
       </div>
-      {/* Fim do container para o banner e o carrossel */}
+     
     </div>
   );
 }

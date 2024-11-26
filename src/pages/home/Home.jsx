@@ -3,9 +3,10 @@ import Footer from '../../Footer';
 import SemanaEspirita from '../home/semanaEspirita';
 import myImage from '../home/img-home/DSCN9271.jpg';
 import Banner from '../home/Banner';
-import Modal from '../home/Modal';
+// import Modal from '../home/Modal';
 import Carousel from './Carousel';
-import EvangelizacaoInfantil from './EvangelizacaoInfantil';
+// import EvangelizacaoInfantil from './EvangelizacaoInfantil';
+import CarrosselCards from './CarrosselCards';
 import DailyQuote from './DailyQuote';
 
 
@@ -17,8 +18,9 @@ export default function Home() {
       <Carousel/>
       <DailyQuote />
       <SemanaEspirita/>
-      <EvangelizacaoInfantil/>
-      <Modal />
+      {/* <EvangelizacaoInfantil/> */}
+      {/* <Modal /> */}
+      <CarrosselCards/>
        <Banner />
       {/* IMG - Oração */}
       <section>

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Navbar from '../../Navbar';
 import Footer from '../../Footer';
 import palestra1 from '../DoutrinaEspirita/Download de Palestras/A Consciência da Gratidão.png'

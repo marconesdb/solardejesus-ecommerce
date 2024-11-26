@@ -1,7 +1,7 @@
 import { useState } from 'react'; 
 import { Link } from 'react-router-dom';
 import { Menu } from '@headlessui/react';
-import Logomarca from './assets/Logomarca.jpg';
+import Logomarca from '../src/public/Logo.png';
 import { FaGlobe } from 'react-icons/fa'; // Ícone de globo
 import { useTranslation } from 'react-i18next';
 

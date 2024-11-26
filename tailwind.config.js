@@ -28,7 +28,13 @@ export default {
       },
       spacing: {
         'plus-10px': 'calc(100% + 10px)',
-      }
+      },
+
+      fontFamily: {
+        podkova: ['Podkova', 'serif'],
+        montserrat: ['Montserrat', 'sans-serif'],
+      },
+
     },
   },
   plugins: [
