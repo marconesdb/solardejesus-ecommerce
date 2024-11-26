@@ -1,7 +1,9 @@
 import bannerVoluntariosDaAlegria from '../quemsomos/img-nossostrabalhos/Voluntários da Alegria.png';
-
+import { useTranslation } from 'react-i18next'; // Importar o hook de tradução
 
 export default function Banner() {
+  const { t } = useTranslation(); // Usar o hook de tradução
+
   return (
     <div className="relative z-10 mt-28 mx-4 md:mx-auto md:max-w-4xl">
       {/* Container para o banner e o carrossel */}
@@ -12,20 +14,18 @@ export default function Banner() {
             <img
               className="w-76 h-auto md:w-full md:h-auto "
               src={bannerVoluntariosDaAlegria}
-              alt="Imagem"
+              alt={t('banner.altText')} // Tradução do atributo "alt"
             />
           </div>
           <div className="md:w-1/2 md:pl-4 bg-orange-500 text-white rounded-bl-3xl rounded-tr-3xl bg-orange400 p-4">
-            <h2 className="text-2xl font-bold mb-4">Seja um Voluntário da Alegria:</h2>
+            <h2 className="text-2xl font-bold mb-4">{t('banner.title')}</h2> {/* Tradução do título */}
             <p className="text-lg ml-4 text-white mr-2">
-              "Ofereça seu amor ao próximo, doando seu tempo e proporcionando consolo moral e espiritual."</p>
+              {t('banner.description')} {/* Tradução da descrição */}
+            </p>
           </div>
         </div>
         {/* Fim do Banner Voluntários da Alegria */}
-        
-       
       </div>
-     
     </div>
   );
 }

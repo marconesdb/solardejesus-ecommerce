@@ -243,13 +243,68 @@
 
     },
 
-
-        "semanaEspirita": {
+    "semanaEspirita": {
           "title": "God, Christ, and Charity",
           "quote": "My children, in the maxim: Outside of charity there is no salvation, the destinies of men are enclosed, on Earth and in heaven; on Earth, because under this banner they will live in peace; in heaven, because those who have practiced it will find grace before the Lord...",
           "reference": "CH 15, Item 10 - Gospel According to Spiritism",
           "author": "Allan Kardec"
-        }
+        },
 
-      
+    "banner": {
+              "altText": "Image",
+              "title": "Become a Joy Volunteer:",
+              "description": "Offer your love to others, donating your time and providing moral and spiritual comfort."
+            },
+
+        "home": {
+            "prayerMoment": "Prayer Moment",
+            "prayerPlace": "Nursery - Solar de Jesus",
+            "banner": {
+            "altText": "Image"
+            }
+        },
+
+            "footer": {
+              "rightsReserved": "&copy; Spiritual Charity Institution Solar de Jesus - {{year}} All rights reserved",
+              "address": "Address: Av. Leonel Beirão de Jesus, 1555, Neighborhood: Sumaré",
+              "postalCode": "ZIP Code: 39402-547 - Montes Claros - MG/BR",
+              "cnpj": "CPNJ 21.355.599/0001-56",
+              "phone": "Phone: (38) 3214-2878",
+              "alfredoContact": "Alfredo Lorenço: (38) 99979-9996",
+              "claudioContact": "Cláudio Mendes: (38) 99166-0454",
+              "email": "instituicaoespiritadecaridadesolardejesus@solardejesus.com.br",
+              "socialMedia": {
+                "facebook": "https://www.facebook.com/solardejesus/",
+                "instagram": "https://www.instagram.com/voluntariasdaalegria1/",
+                "whatsapp": "https://wa.me/5538999799996"
+              }
+            },
+
+    "ourHistory": {
+    "helmet": {
+      "favicon": "/Favicons/favicon-16x16.png"
+    },
+    "main": {
+      "backgroundClass": "bg-gray-100 min-h-screen py-12 px-4 sm:px-6 lg:px-8",
+      "title": "Our History",
+      "founderTitle": "Our Founder",
+      "founderName": "Francisco Soares da Silva",
+      "imageAlt": "Francisco Soares da Silva",
+      "history": {
+        "paragraphs": [
+          "In 1930, Francisco Soares da Silva, known as Chico Zapateiro, moved to Belo Horizonte, where he met the medium Antônio Loreto Flores, president of the Espírita Amor e Caridade Center. There, he developed his mediumistic abilities. During one of the mediumistic sessions, the Spirit Bezerra de Menezes, through the medium Flores, wrote a letter to Chico Zapateiro. In it, he revealed that Chico had a mission in the lands of northern Minas: to found a spiritualist center under the spiritual protection of Teresa de Jesus.",
+          "Francisco spared no effort. As soon as he retired from the DER, he moved from Belo Horizonte to Montes Claros, determined to found a spiritual center in his hometown. In 1979, at the Joana D`Ark espírita center, located in Vila Guilhermina, I met Mr. Francisco (Chico Zapateiro). In fact, it was a reunion, as the bond that was established could not be translated into words. There, we organized doctrinal study meetings and set up work groups.",
+          "The mediumistic meetings were held on Fridays. On one of these occasions, the spirit Eurípedes Barsanulfo, through Chico Zapateiro’s mediumship, warned the group about their responsibility, saying that, since the times of worship in the Temple of Apollo, some of those present had converted to Christianity, and that, in the present time, we were committed to living and spreading Spiritism, contributing to restore the pure Christianity left by Jesus, breaking paradigms of the time, seeking an ascending coexistence and showing that both are necessary and complementary for humanity. Eurípedes Barsanulfo emphasized that all activities should follow the motto of the flag of the spirit Ismael: God, Christ, and Charity.",
+          "The Temple of the Sun of Apollo takes us back to the year 195 AD in the small Greek town of Sicion, in the Peloponnese region, on the shores of the Gulf of Corinth, a province of the Roman Empire, of which Greece was a part. Although Christianity was tolerated in the provinces, the predominant religion was the worship of mythological gods. Apollo was dedicated to the arts and medicine in the sanctuaries of Delphi and Eleusis. It was reported that mediumistic phenomena occurred in the Solar of Apollo. With the presence of the Apostle Paul of Tarsus in the region, a large number of people converted to Christianity, and the Solar of Apollo became the Solar of Jesus. (Book 'Solar de Apolo', by Zilda Gama).",
+          "On October 22, 1982, we founded the Espírita Center Solar de Jesus, with activities at the headquarters of the Joana D`Ark Espírita Center, where we were received with great affection and respect. With the support of the President of the Aliança Municipal Espírita de Montes Claros, Mr. Petrônio, we officially registered the Espírita Charity Institution Solar de Jesus, which was listed in the registry as a non-profit entity, with Francisco Soares da Silva (Chico Zapateiro) as its first president.",
+          "It was a task carried out with great joy and accompanied by people interested in developing a study group so that, later, the house could serve the public. Our group initially included Acácio Fonseca, Pedro Paulo, Maria José Fernandes, Eunice Aguiar, Willian Martins Santos, Durval Soares, Maria Adeide, Renilson Durães, Eugênio Assis, and Athos Frões.",
+          "In 1998, an opportunity for change arose with the arrival of the Spyer Rabelo family and, later, the couple Marice and Paulo Dennucy. From that year onwards, we were able to found our daycare center on Avenida Coração de Jesus, in the Major Prates neighborhood, establishing an agreement with the Education Department to operate the preschool and daycare. This was another valuable experience for our lives. Since then, we began campaigns to collect clothes and food for those in need, community soup kitchens for the poorest families, educational lectures, and Christian moral lessons.",
+          "We were all aware of the responsibilities of running a 100% philanthropic project. As in all espírita centers, ours also suffered, and continues to suffer, from the turnover of collaborators, a fact understood by all of us, espíritas. Many collaborators passed through and contributed in some way to the growth of the group.",
+          "Remembering these events, while our center celebrates its 30th anniversary, I particularly remember its founder, for whom I have always had deep admiration. I pay tribute here to one of the great pioneers of Spiritism in northern Minas. May Jesus expand the opportunities of this dear companion who continues to fight for the common cause from the Invisible Plane."
+        ],
+        "author": "Alfredo Lourenço"
+      }
+    }
+  }
+              
 }

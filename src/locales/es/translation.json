@@ -252,7 +252,73 @@
         "quote": "Hijos míos, en la máxima: Fuera de la caridad no hay salvación, están encerrados los destinos de los hombres, en la Tierra y en el cielo; en la Tierra, porque bajo este estandarte vivirán en paz; en el cielo, porque quienes la hayan practicado encontrarán gracia ante el Señor...",
         "reference": "CAP 15, Ítem 10 - El Evangelio Según el Espiritismo",
         "author": "Allan Kardec"
+      },
+
+
+      "banner": {
+    "altText": "Imagen",
+    "title": "Conviértete en un Voluntario de la Alegría:",
+    "description": "Ofrece tu amor a los demás, donando tu tiempo y brindando consuelo moral y espiritual."
+  },
+
+    "home": {
+      "prayerMoment": "Momento de Oración",
+      "prayerPlace": "Guardería - Solar de Jesús",
+      "banner": {
+        "altText": "Imagen"
       }
-    
+    },
+
+      "footer": {
+        "rightsReserved": "&copy; Institución de Caridad Espiritual Solar de Jesús - {{year}} Todos los derechos reservados",
+        "address": "Dirección: Av. Leonel Beirão de Jesus, 1555, Barrio: Sumaré",
+        "postalCode": "Código Postal: 39402-547 - Montes Claros - MG/BR",
+        "cnpj": "CPNJ 21.355.599/0001-56",
+        "phone": "Teléfono: (38) 3214-2878",
+        "alfredoContact": "Alfredo Lorenço: (38) 99979-9996",
+        "claudioContact": "Cláudio Mendes: (38) 99166-0454",
+        "email": "instituicaoespiritadecaridadesolardejesus@solardejesus.com.br",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/solardejesus/",
+          "instagram": "https://www.instagram.com/voluntariasdaalegria1/",
+          "whatsapp": "https://wa.me/5538999799996"
+        }
+      },
+
+
+
+        "ourHistory": {
+          "helmet": {
+            "favicon": "/Favicons/favicon-16x16.png"
+          },
+          "main": {
+            "backgroundClass": "bg-gray-100 min-h-screen py-12 px-4 sm:px-6 lg:px-8",
+            "title": "Nuestra Historia",
+            "founderTitle": "Nuestro Fundador",
+            "founderName": "Francisco Soares da Silva",
+            "imageAlt": "Francisco Soares da Silva",
+            "history": {
+              "paragraphs": [
+                "En 1930, Francisco Soares da Silva, conocido como Chico Zapateiro, se mudó a Belo Horizonte, donde conoció al médium Antônio Loreto Flores, presidente del Centro Espírita Amor e Caridade. Allí, desarrolló sus facultades mediúmnicas. Durante una de las sesiones mediúmnicas, el Espíritu Bezerra de Menezes, a través del médium Flores, escribió una carta a Chico Zapateiro. En ella, reveló que él tenía una misión en las tierras del norte de Minas: fundar una casa espírita bajo la protección espiritual de Teresa de Jesús.",
+                "Francisco no escatimó esfuerzos. Tan pronto como se jubiló del DER, se mudó de Belo Horizonte a Montes Claros, decidido a fundar una casa espírita en su ciudad natal. En 1979, en el centro espírita Joana D`Ark, ubicado en Vila Guilhermina, conocí al Sr. Francisco (Chico Zapateiro). En realidad, fue un reencuentro, ya que la afinidad que se estableció no podía ser traducida en palabras. Allí, organizamos reuniones de estudio doctrinario y establecimos grupos de trabajo.",
+                "Las reuniones mediúmnicas se realizaban los viernes. En una de esas ocasiones, el espíritu Eurípedes Barsanulfo, a través de la mediumnidad de Chico Zapateiro, advirtió al grupo sobre su responsabilidad, diciendo que, desde los tiempos de adoración en el templo de Apolo, algunos de los presentes se habían convertido al cristianismo, y que, en la actualidad, estábamos comprometidos con vivir y difundir el Espiritismo, contribuyendo a rescatar el cristianismo puro dejado por Jesús, rompiendo paradigmas de la época, buscando una convivencia ascendente y mostrando que ambas son necesarias y complementarias para la humanidad. Eurípedes Barsanulfo destacó que todas las actividades debían seguir el lema de la bandera del espíritu Ismael: Dios, Cristo y Caridad.",
+                "El templo Solar de Apolo nos remonta al año 195 d.C. en la pequeña ciudad griega de Sición, en la región del Peloponeso, a orillas del Golfo de Corinto, y una provincia del Imperio Romano, de la cual Grecia formaba parte. Aunque el cristianismo era tolerado en las provincias, la religión predominante era el culto a los dioses mitológicos. Apolo estaba consagrado a las artes y la medicina en los santuarios de Delfos y Eleusis. Se informó que en el Solar de Apolo ocurrían fenómenos mediúmnicos. Con la presencia del Apóstol Pablo de Tarso en la región, un gran número de personas se convirtió al cristianismo, y el Solar de Apolo se transformó en el Solar de Jesús. (Libro 'Solar de Apolo', de Zilda Gama).",
+                "El 22 de octubre de 1982, fundamos el Centro Espírita Solar de Jesús, con actividades en la sede del Centro Espírita Joana D`Ark, donde fuimos recibidos con mucho cariño y respeto. Con el apoyo del Presidente de la Alianza Municipal Espírita de Montes Claros, Sr. Petrônio, realizamos el registro oficial de la Institución Espírita de Caridad Solar de Jesús, que pasó a constar en el registro como una entidad sin fines de lucro, con Francisco Soares da Silva (Chico Zapateiro) como su primer presidente.",
+                "Fue una tarea realizada con gran alegría y acompañada de personas interesadas en desarrollar un grupo de estudio para que, posteriormente, la casa pudiera atender al público. Nuestro grupo incluyó inicialmente a Acácio Fonseca, Pedro Paulo, Maria José Fernandes, Eunice Aguiar, Willian Martins Santos, Durval Soares, Maria Adeide, Renilson Durães, Eugênio Assis y Athos Frões.",
+                "En 1998, surgió la oportunidad de cambio con la llegada de la familia Spyer Rabelo y, posteriormente, de la pareja Marice y Paulo Dennucy. A partir de ese año, pudimos fundar nuestra guardería en la Avenida Coração de Jesus, en el barrio Major Prates, firmando un convenio con la Secretaría de Educación para operar la preescolar y la guardería. Esta fue otra experiencia valiosa para nuestras vidas. Desde entonces, comenzamos campañas para recaudar ropa y alimentos para los necesitados, comedores comunitarios para las familias más pobres, conferencias educativas y clases de moral cristiana.",
+                "Todos éramos conscientes de las responsabilidades de llevar a cabo un proyecto 100% filantrópico. Como en todos los centros espíritas, el nuestro también sufría, y sigue sufriendo, con la rotación de colaboradores, un hecho comprendido por todos nosotros, espíritas. Muchos colaboradores pasaron y contribuyeron de alguna manera al crecimiento del grupo.",
+                "Recordando estos acontecimientos, mientras nuestra casa celebra su 30º aniversario, recuerdo especialmente a su fundador, a quien siempre tuve una profunda admiración. Dejo aquí mi homenaje a uno de los grandes pioneros del Espiritismo en el norte de Minas. Que Jesús amplíe las oportunidades de este querido compañero que sigue luchando por la causa común desde el Plano Invisible."
+              ],
+              "author": "Alfredo Lourenço"
+            }
+          }
+        }
+      
+      
+      
+      
+     
+      
+      
     
 }

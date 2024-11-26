@@ -251,7 +251,65 @@
       "quote": "Mes enfants, dans la maxime : Hors de la charité, point de salut, sont enfermés les destins des hommes, sur Terre et au ciel ; sur Terre, car sous cet étendard ils vivront en paix ; au ciel, car ceux qui l'auront pratiquée trouveront grâce auprès du Seigneur...",
       "reference": "CHAP 15, Article 10 - L'Évangile Selon le Spiritisme",
       "author": "Allan Kardec"
-    }
+    },
 
-    
+    "banner": {
+    "altText": "Image",
+    "title": "Devenez un Volontaire de la Joie :",
+    "description": "Offrez votre amour aux autres, en donnant de votre temps et en apportant un réconfort moral et spirituel."
+  },
+
+    "home": {
+      "prayerMoment": "Moment de Prière",
+      "prayerPlace": "Crèche - Solar de Jesus",
+      "banner": {
+        "altText": "Image"
+      }
+    },
+
+      "footer": {
+        "rightsReserved": "&copy; Institución de Caridad Espiritual Solar de Jesús - {{year}} Todos los derechos reservados",
+        "address": "Dirección: Av. Leonel Beirão de Jesus, 1555, Barrio: Sumaré",
+        "postalCode": "Código Postal: 39402-547 - Montes Claros - MG/BR",
+        "cnpj": "CPNJ 21.355.599/0001-56",
+        "phone": "Teléfono: (38) 3214-2878",
+        "alfredoContact": "Alfredo Lorenço: (38) 99979-9996",
+        "claudioContact": "Cláudio Mendes: (38) 99166-0454",
+        "email": "instituicaoespiritadecaridadesolardejesus@solardejesus.com.br",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/solardejesus/",
+          "instagram": "https://www.instagram.com/voluntariasdaalegria1/",
+          "whatsapp": "https://wa.me/5538999799996"
+        }
+      },
+
+        "ourHistory": {
+          "helmet": {
+            "favicon": "/Favicons/favicon-16x16.png"
+          },
+          "main": {
+            "backgroundClass": "bg-gray-100 min-h-screen py-12 px-4 sm:px-6 lg:px-8",
+            "title": "Notre Histoire",
+            "founderTitle": "Notre Fondateur",
+            "founderName": "Francisco Soares da Silva",
+            "imageAlt": "Francisco Soares da Silva",
+            "history": {
+              "paragraphs": [
+                "En 1930, Francisco Soares da Silva, connu sous le nom de Chico Zapateiro, déménagea à Belo Horizonte, où il rencontra le médium Antônio Loreto Flores, président du Centre Spirite Amor e Caridade. Là, il développa ses facultés médiumniques. Lors d'une des séances médiumniques, l'Esprit Bezerra de Menezes, par l'intermédiaire du médium Flores, écrivit une lettre à Chico Zapateiro. Dans cette lettre, il révéla que Chico avait une mission dans les terres du nord de Minas : fonder une maison spirite sous la protection spirituelle de Teresa de Jésus.",
+                "Francisco ne ménagea aucun effort. Dès qu'il prit sa retraite du DER, il quitta Belo Horizonte pour Montes Claros, déterminé à fonder une maison spirite dans sa ville natale. En 1979, au centre spirite Joana D`Ark, situé à Vila Guilhermina, je rencontrai M. Francisco (Chico Zapateiro). En réalité, ce fut une retrouvailles, car l'affinité qui s'est établie ne pouvait être traduite en mots. Là, nous avons organisé des réunions d'étude doctrinale et mis en place des groupes de travail.",
+                "Les réunions médiumniques avaient lieu les vendredis. Lors de l'une de ces occasions, l'esprit Eurípedes Barsanulfo, par la médiumnité de Chico Zapateiro, avertit le groupe de leur responsabilité, disant que, depuis les temps de culte dans le temple d'Apollon, certains des présents s'étaient convertis au christianisme, et que, de nos jours, nous étions engagés dans la pratique et la diffusion du spiritisme, contribuant à restaurer le christianisme pur laissé par Jésus, en rompant les paradigmes de l'époque, en recherchant une coexistence ascendante et en montrant que les deux sont nécessaires et complémentaires pour l'humanité. Eurípedes Barsanulfo souligna que toutes les activités devaient suivre la devise du drapeau de l'esprit Ismael : Dieu, Christ et Charité.",
+                "Le temple Solar d'Apollon nous renvoie à l'année 195 après J.-C. dans la petite ville grecque de Sicion, dans la région du Péloponnèse, sur les rives du golfe de Corinthe, et une province de l'Empire romain, dont la Grèce faisait partie. Bien que le christianisme fût toléré dans les provinces, la religion prédominante était le culte des dieux mythologiques. Apollon était consacré aux arts et à la médecine dans les sanctuaires de Delphes et d'Éleusis. Il a été rapporté que des phénomènes médiumniques se produisaient dans le Solar d'Apollon. Avec la présence de l'Apôtre Paul de Tarse dans la région, un grand nombre de personnes se convertirent au christianisme, et le Solar d'Apollon se transforma en Solar de Jésus. (Livre 'Solar de Apolo', de Zilda Gama).",
+                "Le 22 octobre 1982, nous fondâmes le Centre Spirite Solar de Jesus, avec des activités au siège du Centre Spirite Joana D`Ark, où nous fûmes accueillis avec beaucoup d'affection et de respect. Avec le soutien du président de l'Alliance Municipale Spirite de Montes Claros, M. Petrônio, nous avons effectué l'enregistrement officiel de l'Institution Spirite de Charité Solar de Jesus, qui fut inscrite au registre en tant qu'entité à but non lucratif, avec Francisco Soares da Silva (Chico Zapateiro) comme premier président.",
+                "Ce fut une tâche accomplie avec grande joie et accompagnée de personnes intéressées à développer un groupe d'étude afin que, plus tard, la maison puisse accueillir le public. Notre groupe comprenait initialement Acácio Fonseca, Pedro Paulo, Maria José Fernandes, Eunice Aguiar, Willian Martins Santos, Durval Soares, Maria Adeide, Renilson Durães, Eugênio Assis et Athos Frões.",
+                "En 1998, une opportunité de changement se présenta avec l'arrivée de la famille Spyer Rabelo et, plus tard, du couple Marice et Paulo Dennucy. À partir de cette année, nous avons pu fonder notre crèche sur l'Avenida Coração de Jesus, dans le quartier Major Prates, en signant un partenariat avec le Secrétariat à l'Éducation pour gérer la maternelle et la crèche. Ce fut une autre expérience précieuse pour nos vies. Depuis lors, nous avons lancé des campagnes pour collecter des vêtements et des aliments pour les personnes dans le besoin, des soupes communautaires pour les familles les plus démunies, des conférences éducatives et des cours de morale chrétienne.",
+                "Nous étions tous conscients des responsabilités liées à la gestion d'un projet 100% philanthropique. Comme dans tous les centres spirites, le nôtre souffrait également, et continue de souffrir, du roulement des collaborateurs, un fait compris par nous tous, spirites. De nombreux collaborateurs sont passés et ont contribué d'une manière ou d'une autre à la croissance du groupe.",
+                "En me souvenant de ces événements, alors que notre maison célèbre son 30e anniversaire, je me souviens particulièrement de son fondateur, pour qui j'ai toujours eu une profonde admiration. Je rends ici hommage à l'un des grands pionniers du spiritisme dans le nord de Minas. Que Jésus amplifie les opportunités de ce cher compagnon qui continue à lutter pour la cause commune depuis le Plan Invisible."
+              ],
+              "author": "Alfredo Lourenço"
+            }
+          }
+        }
+      
+      
+       
 }
