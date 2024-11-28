@@ -312,7 +312,59 @@
               "author": "Alfredo Lourenço"
             }
           }
-        }
+        },
+
+
+          "voluntariosDaAlegria": {
+              "imageAlt": "Logo de Voluntarios de la Alegría",
+              "title": "Voluntarios de la Alegría",
+              "subtitle": "Cosiendo ropitas, tejiendo alegrías: Voluntarios de la Alegría, Transformando Líneas en Momentos Especiales.",
+              "description": "En la ciudad de Montes Claros, MG, donde la luz brillaba intensamente con los colores de la alegría, un grupo especial se reunía regularmente, conocido como los Voluntarios de la Alegría. Compartían una pasión común: la costura. Cada aguja e hilo eran como extensiones de sus corazones generosos y eran manejados por manos dedicadas. Un día, se dieron cuenta de que madres desesperadas susurraban en sus oídos porque sus pequeños hijos necesitaban ropa nueva, y muchos nacerían sin ninguna prenda. Los niños, con sus historias únicas y sonrisas radiantes, eran la inspiración perfecta para los Voluntarios de la Alegría. El grupo se reunió en su taller, en el Centro Espírita Solar de Jesús, donde telas coloridas e hilos vibrantes llenaban el ambiente de positividad. Cada voluntario eligió un trozo de tela con cuidado, imaginando cómo podrían transformarlo en algo especial. Algunos eligieron patrones brillantes, mientras otros optaron por tonos suaves, creando una colección diversa, tal como los propios niños. Mientras cosían, compartían historias y risas, creando un ambiente lleno de calor humano. Las agujas se movían con habilidad, transformando simples trozos de tela en piezas únicas y llenas de cariño. Cuando la ropa estaba lista, los Voluntarios de la Alegría partieron y fueron al encuentro de esas futuras madres y madres que tendrían a sus pequeños en condiciones difíciles debido a la vulnerabilidad económica y social. Las madres fueron recibidas con abrazos cálidos y se alegraron con las nuevas ropas hechas a medida, sus rostros se iluminaron. Era más que vestimenta; era una manifestación tangible del cuidado y la atención que cada voluntario había puesto en cada puntada. Los Voluntarios de la Alegría no solo cosieron ropa aquella tarde, sino que también tejieron lazos indestructibles de amistad y compasión. Su trabajo no era solo crear vestimentas, sino envolver a los recién nacidos en un abrazo colectivo de amor y esperanza. Desde entonces, los Voluntarios de la Alegría continuaron cosiendo no solo ropa, sino también historias de solidaridad y alegría, mostrando que, con un poco de creatividad y mucha dedicación, es posible transformar tela en tesoros que calientan corazones.",
+              "videoTitle": "Aprende a Coser Ropa para Niños Necesitados - Voluntarios de la Alegría",
+              "videoDescription": "Aprende a coser ropa para niños necesitados - Voluntarios de la Alegría | Centro Espírita Solar de Jesús"
+          },
+          "trabalhadoresUltimaHora": {
+              "imageAlt": "Logo de Trabajadores de la Última Hora",
+              "title": "Trabajadores de la Última Hora",
+              "subtitle": "En la Jornada Final, Trabajadores de Luz: Sembrando Amor y Esperanza, Siguiendo los Pasos de Jesús.",
+              "description": "En la ciudad de Montes Claros, MG, los Trabajadores de la Última Hora son un grupo dedicado a servir y ayudar al prójimo, inspirados por las enseñanzas de Jesús. Se reúnen en el Centro Espírita Solar de Jesús con el propósito de realizar trabajos de caridad y solidaridad. Siguiendo la parábola de los trabajadores de la última hora, el grupo cree que nunca es tarde para hacer el bien y contribuir a la transformación social. Su trabajo abarca diversos frentes de actuación, desde el apoyo a familias vulnerables hasta la realización de proyectos comunitarios que buscan mejorar la calidad de vida de las personas.",
+              "videoTitle": "Ven a Colaborar en la Obra del Bien - Grupo Trabajadores de la Última Hora",
+              "videoDescription": "Ven a colaborar en el trabajo del BIEN - Grupo Trabajadores de la Última Hora - Centro Espírita Solar de Jesús"
+          },
+          "bazarSolarDeJesus": {
+              "imageAlt": "Bazar del Centro Espírita Solar de Jesús",
+              "title": "Bazar del Centro Espírita Solar de Jesús",
+              "subtitle": "¡Brilla con Solidaridad: Bazar del Centro Espírita Solar de Jesús, Donde Cada Compra Ilumina Vidas!",
+              "description": "Había una pequeña comunidad, abrazada por la fe y por la voluntad de hacer el bien. En el corazón de esa comunidad, se alzaba el Centro Espírita Solar de Jesús, un faro de amor y solidaridad. Un día, un grupo de voluntarios tuvo una idea brillante para unir esfuerzos y contribuir aún más al bienestar de aquellos que necesitaban. Así nacía el Bazar del Centro Espírita Solar de Jesús. Este lugar especial se convirtió en un punto de encuentro para donaciones generosas de ropa, utensilios domésticos y otros recursos materiales. La comunidad se movilizó, cada persona trayendo un pedacito de amor consigo. El Bazar, con sus estanterías coloridas y vitrinas llenas de historias, se transformó en un espacio de compartir. La ropa, antes guardada en los armarios, encontraba nuevos dueños, proporcionando no solo calor físico, sino también calor humano. Los recursos recaudados cobraban vida propia, transformándose en ayuda material para los más necesitados. Cada donación, cada prenda de ropa, contaba una historia de generosidad. Y así, el Bazar del Centro Espírita Solar de Jesús no era solo un lugar de transacciones comerciales, sino un punto de encuentro para corazones solidarios. Las donaciones no eran simples objetos; eran abrazos invisibles, transmitiendo amor y esperanza. Al final de cada jornada en el Bazar, los voluntarios sonreían sabiendo que estaban haciendo la diferencia en la vida de muchos. El dinero recaudado encontraba su camino para ayudar a proyectos sociales, apoyo a familias en dificultad y soporte a causas nobles. El Bazar del Centro Espírita Solar de Jesús se convirtió en un símbolo de la capacidad humana de unirse en pro del prójimo. No solo vestía cuerpos, sino que también calentaba almas. En cada prenda donada y en cada compra realizada, resonaba el lema del centro: ¡Iluminando Vidas, Esparciendo Amor!",
+              "videoDescription": "Bazar de la Institución Espírita de Caridad Solar de Jesús - Montes Claros-MG"
+          },
+          "evangelizacaoInfantil": {
+              "imageAlt": "Logo de Evangelización Infantil",
+              "title": "Evangelización Infantil",
+              "subtitle": "¡Sembrando Semillas Divinas: Taller de Amor, Valores y Espiritualidad para Pequeños Corazones!",
+              "description": "La evangelización espírita infantil es un trabajo espiritual que posee una estructura de estudio y comprensión de buenas prácticas, acogida y apoyo tanto para los niños como para sus familias. Este trabajo ayuda a los niños en su formación moral a través de las enseñanzas de Jesús. La Evangelización Infantil auxilia al ser a prepararse para la vida adulta, para enfrentar los desafíos terrenales, cultivando en sí la práctica de hacer el bien y el desarrollo de la moral cristiana. La evangelización espírita infantil es esencial para educar y atribuir valores morales, además de enseñar sobre el espiritismo a los niños. Además de acercar al individuo con Dios, también lo conecta consigo mismo. La evangelización espírita proporciona un ambiente acogedor y seguro para que los niños y jóvenes puedan expresarse libremente, compartir sus experiencias y recibir orientación adecuada para lidiar con las dificultades de la vida. Es una oportunidad de aprendizaje y crecimiento personal, que contribuye a la formación de individuos más conscientes y responsables.",
+              "groupImageAlt": "Alumnos y Educadora de Evangelización Infantil",
+              "groupImageDescription": "Alumnos y Educadora de Evangelización Infantil Centro Espírita Solar de Jesús - Montes Claros-MG"
+          },
+          "assistenciaSocial": {
+              "imageAlt": "Logo de Asistencia Social",
+              "title": "Asistencia Social",
+              "subtitle": "La Distribución de Cestas Básicas Navidad 2023 - Centro Espírita Solar de Jesús - Montes Claros - MG",
+              "prayer": "*Oración para quien tiene hambre en Navidad* Padre Celestial, En Navidad, celebramos el nacimiento de Jesús, el Pan de Vida. Pero sabemos que, en muchos lugares del mundo, todavía hay personas que pasan hambre. Te pedimos que mires a aquellos que sufren en esta noche santa. Que les envíes tu amor y tu sustento. Que les abras tus puertas y les muestres tu misericordia. Que les des el pan que alimenta el cuerpo y el alma. Que les des paz y esperanza. Te pedimos también que nos ayudes a ser más solidarios con quienes pasan hambre. Que nos inspires a compartir lo que tenemos con los que necesitan. Que nos muestres cómo podemos hacer la diferencia en el mundo. En nombre de Jesús, el Pan de Vida, Amén!",
+              "videoTitle": "Distribución de Cestas Básicas Navidad 2023",
+              "videoDescription": "Distribución de Cestas Básicas Navidad 2023 - Centro Espírita Solar de Jesús"
+          },
+          "passeEspirita": {
+              "imageAlt": "Imagen del Pase Espírita",
+              "title": "El Pase Espírita",
+              "subtitle": "Renueva tus energías, encuentra equilibrio: el Pase Espírita, un toque de bienestar para el cuerpo y el alma.",
+              "description": "El pase espírita y el agua fluidificada es una práctica común dentro del espiritismo, una doctrina que tiene sus raíces en el siglo XIX. Esta técnica implica la transmisión de energías fluídicas beneficiosas a través de las manos, con el objetivo de promover el equilibrio energético, físico y espiritual de una persona. A través del pase se canalizan energías positivas, que pueden ayudar en la armonización de los centros de energía del cuerpo (chakras) y proporcionar bienestar. El pase espírita es frecuentemente realizado en centros espíritas durante reuniones públicas, siendo considerado un recurso terapéutico complementario dentro del contexto de la espiritualidad espírita.",
+              "prayerTitle": "**Oración por los Enfermos**",
+              "prayer": "Dios Padre, Todopoderoso, Vos que sois la fuente de la vida y la curación, mirad con misericordia a vuestros hijos e hijas que sufren de enfermedades del cuerpo y del alma. Tocadlos con vuestra mano poderosa, y curadles de todos sus dolores y sufrimientos. Dadles la fuerza para enfrentar su enfermedad, y la esperanza de un día ser curados. Envolvedlos en vuestro amor misericordioso, y dadles la paz que solo Vos podéis dar. Pedimos por todos los enfermos del mundo, especialmente por aquellos que están más necesitados: por los que sufren de enfermedades graves, por los que están en fase terminal, por los que viven con dolor crónico, por los que son discriminados a causa de su enfermedad, y por los que no tienen acceso a los cuidados de salud que necesitan. Escuchad nuestra súplica, y dadles la curación que tanto anhelan. En nombre de Jesucristo, Nuestro Señor. Amén!",
+
+              "imageDescription":"Ilustración del Pase Espírita"
+          }
+      
       
       
       
