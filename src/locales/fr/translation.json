@@ -468,7 +468,49 @@
                "prayer18": "",
 
                 "subtitlePrayer19": "",
-               "prayer19": ""
+               "prayer19": "",
+
+
+               
+                "posters": {
+                  "title": "Nos Affiches",
+                  "poster1": "Le Bazar Solidaire de l'Institution Spirite de Charité Solar de Jesus est un événement enchanteur qui unit la magie des achats à une noble cause. Dans une ambiance chaleureuse et pleine d'amour, ce bazar propose une variété de produits soigneusement sélectionnés, allant des vêtements aux chaussures. En participant à ce bazar, chaque personne devient partie prenante d'une chaîne d'amour qui illumine des vies et transforme des communautés.",
+                  "poster2": "L'Institution Spirite de Charité Solar de Jesus gère un système transparent et efficace pour la distribution des ressources. Les dons financiers destinés aux campagnes du bazar, à l'assistance sociale, à l'atelier de couture, aux Travailleurs de la Dernière Heure et à l'entretien de l'institution sont gérés de manière organisée. Les fonds sont répartis équitablement, couvrant des dépenses telles que l'entretien et le nettoyage des locaux, l'électricité, l'eau et l'assainissement, ainsi que la redistribution des dons. L'institution privilégie la durabilité et les actions caritatives, veillant à ce que chaque contribution soit utilisée de manière responsable pour le bien-être de la communauté desservie.",
+                  "poster3": "Le Groupe des Travailleurs de la Dernière Heure est la main tendue de l'Institution Spirite de Charité Solar de Jesus vers ceux qui en ont le plus besoin. Dédiés à fournir une aide immédiate et un accueil aux sans-abris et aux personnes dans les files d'attente des hôpitaux, ces bénévoles sont de véritables anges qui interviennent aux moments les plus cruciaux.",
+                  "poster4": "Le Service d'Assistance Sociale de l'Institution Spirite de Charité Solar de Jesus est un lien d'amour et de solidarité, dédié à transformer des vies par des actions concrètes et accueillantes. Fondée sur les principes spirites, notre équipe engagée travaille sans relâche pour offrir un soutien intégral aux personnes en situation de vulnérabilité, promouvant dignité, inclusion et bien-être. Nous cherchons non seulement à répondre aux besoins fondamentaux, mais aussi à inspirer l'espoir et à favoriser le développement personnel, dans le but de construire une société plus juste et fraternelle. Ensemble, nous éclairons les chemins et cultivons l'amour du prochain, guidés par la lumière de la compréhension et de la compassion.",
+                  "poster5": "L'Institution Spirite de Charité Solar de Jesus gère un système transparent et efficace pour la distribution des ressources. Les dons financiers destinés aux campagnes du bazar, à l'assistance sociale, à l'atelier de couture, aux Travailleurs de la Dernière Heure et à l'entretien de l'institution sont gérés de manière organisée. Les fonds sont répartis équitablement, couvrant des dépenses telles que l'entretien et le nettoyage des locaux, l'électricité, l'eau et l'assainissement, ainsi que la redistribution des dons. L'institution privilégie la durabilité et les actions caritatives, veillant à ce que chaque contribution soit utilisée de manière responsable pour le bien-être de la communauté desservie.",
+                  "poster6": "Le Groupe des Volontaires de la Joie, rattaché à l'Institution Spirite de Charité Solar de Jesus, est une équipe dévouée et passionnée qui confectionne des layettes pour les nouveau-nés dans le besoin. Avec amour et compétence, ces bénévoles transforment des tissus en véritables œuvres de tendresse, offrant non seulement des articles essentiels, mais aussi une touche spéciale d'affection et d'espoir aux familles bénéficiaires."
+                },
+
+
+                
+                  "contact_us": "Contactez-nous",
+                  "namelabel": "Nom",
+                  "name": "Entrez votre nom",
+                  "emaillabel": "E-mail",
+                  "email": "Entrez votre e-mail",
+                  "phonelabel": "Téléphone",
+                  "phone": "Entrez votre téléphone",
+                  "messagelabel": "Message",
+                  "message": "Entrez votre message",
+                  "send": "Envoyer",
+                  "fill_all_fields": "Veuillez remplir tous les champs",
+                  "location": "Notre Localisation",
+
+
+                
+                  "homenageados.title": "Hommages",
+                  "homenageados.description": "Avec un profond respect et gratitude, nous rendons un humble hommage aux travailleurs dévoués du Centre Spirite Solar de Jésus qui ont déjà quitté pour la vie spirituelle. Leurs vies consacrées à l'étude et à la pratique du spiritisme ont laissé un héritage d'amour, de charité et d'élévation qui restera une source d'inspiration pour nous tous. Honorons leurs souvenirs en suivant leurs nobles exemples, cultivant la fraternité, la connaissance des lois divines et l'aide aux autres. Que la lumière de l'Évangile de Jésus continue d'illuminer leurs chemins dans le voyage infini des esprits immortels. Nos cœurs s'élèvent en prière de gratitude pour leurs vies et leurs œuvres en faveur de la grande cause du renouveau spirituel de l'humanité. Qu'ils puissent continuer leur mission de guidance et de soutien depuis les sphères spirituelles supérieures.",
+
+                  "gallery_title": "Galerie de Photos - Solar de Jésus"
+              
+
+              
+              
+                
+                
+              
+              
 
               
             

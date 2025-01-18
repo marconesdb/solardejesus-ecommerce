@@ -1,15 +1,13 @@
 import { useState, useEffect, useCallback } from 'react';
 import { ChevronLeft, ChevronRight, X } from 'lucide-react';
 import img1 from '../../public/Cartaz-09.png';
-// import img2 from '../../public/2.png';
-// import img3 from '../../public/3.png';
 import img4 from '../../public/Cartaz-1.png';
 import img5 from '../../public/Cartaz-2.png';
 import img6 from '../../public/Cartaz-3.png';
 import img7 from '../../public/Cartaz-05.png';
 import img8 from '../../public/Cartaz-06.png';
 import img9 from '../../public/Evangelizacao.png';
-import img10 from '../../public/Natal.png';
+// import img10 from '../../public/Natal.png';
 import img11 from '../../public/Oracao.png';
 import img12 from '../../public/Cartaz-08.png';
 
@@ -30,7 +28,7 @@ const ImageCarousel = () => {
     { id: 7, imageUrl: img7},
     { id: 8, imageUrl: img8 },
     { id: 9, imageUrl: img9},
-    { id: 10, imageUrl: img10},
+    // { id: 10, imageUrl: img10},
     { id: 11, imageUrl: img11},
     { id: 11, imageUrl: img12},
    

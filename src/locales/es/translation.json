@@ -470,7 +470,48 @@
     "prayer18": "",
 
      "subtitlePrayer19": "",
-    "prayer19": ""
+    "prayer19": "",
+
+
+    
+      "posters": {
+        "title": "Nuestros Pósteres",
+        "poster1": "El Bazar Solidario de la Institución Espírita de Caridad Solar de Jesús es un evento encantador que une la magia de las compras con una noble causa. En un ambiente acogedor y lleno de amor, este bazar ofrece una variedad de productos cuidadosamente seleccionados, desde ropa hasta calzado. Al participar en este bazar, cada persona se convierte en parte de una cadena de amor que ilumina vidas y transforma comunidades.",
+        "poster2": "La Institución Espírita de Caridad Solar de Jesús opera un sistema transparente y eficiente para la distribución de recursos. Las donaciones financieras destinadas a campañas del bazar, asistencia social, talleres de costura, Trabajadores de la Última Hora y mantenimiento de la institución se gestionan de manera organizada. Los fondos se asignan de forma equitativa, cubriendo gastos como el mantenimiento y limpieza del edificio, electricidad, agua y alcantarillado, y la redistribución de donaciones. La institución prioriza la sostenibilidad y las acciones benéficas, asegurando que cada contribución se utilice de manera responsable para el bienestar de la comunidad atendida.",
+        "poster3": "El Grupo Trabajadores de la Última Hora es la mano extendida de la Institución Espírita de Caridad Solar de Jesús para aquellos que más lo necesitan. Dedicados a ofrecer ayuda inmediata y acogida a personas sin hogar y a quienes esperan en las filas de los hospitales, estos voluntarios son verdaderos ángeles que actúan en los momentos más cruciales.",
+        "poster4": "El equipo de Asistencia Social de la Institución Espírita de Caridad Solar de Jesús es un vínculo de amor y solidaridad, dedicado a transformar vidas a través de acciones concretas y acogedoras. Guiados por los principios espíritas, nuestro equipo comprometido trabaja incansablemente para brindar apoyo integral a personas en situaciones de vulnerabilidad, promoviendo la dignidad, la inclusión y el bienestar. Nos esforzamos no solo por satisfacer las necesidades básicas, sino también por inspirar esperanza y fomentar el desarrollo personal, trabajando hacia la construcción de una sociedad más justa y fraterna. Juntos, iluminamos caminos y cultivamos el amor al prójimo, guiados por la luz del entendimiento y la compasión.",
+        "poster5": "La Institución Espírita de Caridad Solar de Jesús opera un sistema transparente y eficiente para la distribución de recursos. Las donaciones financieras destinadas a campañas del bazar, asistencia social, talleres de costura, Trabajadores de la Última Hora y mantenimiento de la institución se gestionan de manera organizada. Los fondos se asignan de forma equitativa, cubriendo gastos como el mantenimiento y limpieza del edificio, electricidad, agua y alcantarillado, y la redistribución de donaciones. La institución prioriza la sostenibilidad y las acciones benéficas, asegurando que cada contribución se utilice de manera responsable para el bienestar de la comunidad atendida.",
+        "poster6": "El Grupo Voluntarios de la Alegría, vinculado a la Institución Espírita de Caridad Solar de Jesús, es un equipo dedicado y apasionado que cose ropa de cuna para recién nacidos en situaciones de necesidad. Con amor y habilidad, estos voluntarios transforman telas en verdaderas obras de cuidado, proporcionando no solo artículos esenciales, sino también un toque especial de cariño y esperanza para las familias beneficiadas."
+      },
+
+      
+        "contact_us": "Contáctenos",
+        "namelabel": "Nombre",
+        "name": "Ingrese su nombre",
+        "emaillabel": "Correo Electrónico",
+        "email": "Ingrese su correo electrónico",
+        "phonelabel": "Teléfono",
+        "phone": "Ingrese su teléfono",
+        "messagelabel": "Mensaje",
+        "message": "Ingrese su mensaje",
+        "send": "Enviar",
+        "fill_all_fields": "Por favor, complete todos los campos",
+        "location": "Nuestra Ubicación",
+
+
+    
+        "homenageados.title": "Homenajeados",
+        "homenageados.description": "Con profundo respeto y gratitud, rendimos un humilde homenaje a los trabajadores desinteresados del Centro Espírita Solar de Jesús que ya han partido a la vida espiritual. Sus vidas dedicadas al estudio y la práctica del Espiritismo dejaron un legado de amor, caridad y conocimiento que permanecerá como inspiración para todos nosotros. Honremos sus memorias siguiendo sus nobles ejemplos, cultivando la fraternidad, el conocimiento de las leyes divinas y el auxilio a los demás. Que la luz del Evangelio de Jesús continúe iluminando sus caminos en la jornada infinita de los espíritus inmortales. Elevamos nuestros corazones en oración de gratitud por sus vidas y obras en pro de la causa mayor de la renovación espiritual de la humanidad. Que puedan continuar su misión de guía y amparo desde las esferas espirituales superiores.",
+
+        "gallery_title": "Galería de Fotos - Solar de Jesús"
+
+
+    
+    
+      
+      
+    
+    
 
             
 

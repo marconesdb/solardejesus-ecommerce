@@ -203,12 +203,12 @@ const Navbar = () => {
               </Menu.Items>
             </Menu>
 
-            <Link
+            {/* <Link
               to="/venda"
               className="text-gray-800 px-3 py-2 rounded-md text-sm font-medium border-b border-transparent hover:border-orange-400 hover:text-gray-500 transition duration-300"
             >
                  {t("navbar.bookSale")}   
-            </Link>
+            </Link> */}
             <Link
               to="/doacoes"
               className="text-gray-800 px-3 py-2 rounded-md text-sm font-medium border-b border-transparent hover:border-orange-400 hover:text-gray-500 transition duration-300"

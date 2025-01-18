@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from '../../Navbar';
 import Footer from '../../Footer';
+import { useTranslation } from 'react-i18next';
 import ImageGallery from 'react-image-gallery';
 import 'react-image-gallery/styles/css/image-gallery.css';
 import imagem1 from '../quemsomos/img-galeria/Biblioteca/img-1.jpeg';
@@ -344,28 +345,29 @@ description: 'Costura'
 
 ];
 
-
-
 const Galeria = () => {
+    const { t } = useTranslation();
+  
     return (
-        <div className="flex flex-col min-h-screen">
-            <Navbar />
-            <main>
-                <div className="container mx-auto px-4 py-8 flex-grow">
-                    <h1 className="text-xl font-bold mt-20 mb-4 text-center">Galeria de Fotos - Solar de Jesus</h1>
-                    <div className="sm:hidden"> {/* Visível apenas em dispositivos móveis */}
-                        <ImageGallery items={images1} showThumbnails={false} />
-                    </div>
-                    <div className="hidden sm:block"> {/* Visível apenas em dispositivos desktop */}
-                        <ImageGallery items={images1} />
-                    </div>
-                    {/* Adicione aqui a segunda galeria de fotos, se necessário */}
-                
-                </div>
-            </main>
-            <Footer />
-        </div>
+      <div className="flex flex-col min-h-screen">
+        <Navbar />
+        <main>
+          <div className="container mx-auto px-4 py-8 flex-grow">
+            <h1 className="text-xl font-bold mt-20 mb-4 text-center">
+              {t('gallery_title')}
+            </h1>
+            <div className="sm:hidden"> {/* Visível apenas em dispositivos móveis */}
+              <ImageGallery items={images1} showThumbnails={false} />
+            </div>
+            <div className="hidden sm:block"> {/* Visível apenas em dispositivos desktop */}
+              <ImageGallery items={images1} />
+            </div>
+            {/* Adicione aqui a segunda galeria de fotos, se necessário */}
+          </div>
+        </main>
+        <Footer />
+      </div>
     );
-};
-
-export default Galeria;
+  };
+  
+  export default Galeria;
